@@ -1,40 +1,53 @@
-import mongoose from "mongoose"
-import server from "./server"
-import pjson from "../package.json"
-import dotenv from "dotenv"
+import mongoose from 'mongoose';
+import dotenv from 'dotenv';
+import Server from './server';
+import pjson from '../package.json';
 
-dotenv.config()
+dotenv.config();
 
-const port = Number(process.env.PORT) || 3001
-let mongo = process.env.MONGO_DB ? process.env.MONGO_DB : undefined
-if (process.env.BUILD_ENV === "production") {
-  mongo = process.env.MONGO_PROD
-} else if (process.env.BUILD_ENV === "test") {
-  mongo = process.env.MONGO_TEST
+const port = Number(process.env.PORT) || 3001;
+let mongoUri = process.env.MONGO_DB;
+
+if (process.env.BUILD_ENV === 'production') {
+  mongoUri = process.env.MONGO_PROD;
+} else if (process.env.BUILD_ENV === 'test') {
+  mongoUri = process.env.MONGO_TEST;
 }
-const NAME = pjson.name
-const VERSION = pjson.version
 
-console.log("Starting: %s | Version: %s", pjson.name, pjson.version)
+const { name, version } = pjson;
 
-mongoose.connect(mongo!).catch((err) => {
-  throw new Error("Failed to connect to MongoDB: " + err)
-})
+console.log(`Starting: ${name} | Version: ${version}`);
+console.log(`Connecting to MongoDB at: ${mongoUri}`);
 
-const connection = mongoose.connection
+if (!mongoUri) {
+  throw new Error('MongoDB URI is not defined in environment variables');
+}
 
-connection.on("error", (err) => {
-  throw new Error("Connection with MongoDB lost: " + err)
-})
+async function startServer() {
+  try {
+    await mongoose.connect(mongoUri);
+    console.log(`Connected to MongoDB at: ${mongoUri}`);
 
-connection.on("open", () => {
-  console.log("MongoDB connection open")
-  server(NAME, VERSION, port).listen()
-})
+    const server = new Server({ name, version, port });
+    server.listen();
+  } catch (err) {
+    console.error('Failed to connect to MongoDB:', err);
+    process.exit(1);
+  }
+}
 
-process.on("SIGINT", () => {
-  connection.close().then(() => {
-    console.log("\nMongoDB connection closed")
-    process.exit(0)
-  })
-})
+// Start the server
+startServer();
+
+// Handle runtime MongoDB connection errors
+const connection = mongoose.connection;
+connection.on('error', (err) => {
+  console.error('Connection with MongoDB lost:', err);
+});
+
+// Handle graceful shutdown on termination signals
+process.on('SIGINT', async () => {
+  await connection.close();
+  console.log('\nMongoDB connection closed');
+  process.exit(0);
+});
