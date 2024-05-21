@@ -1,0 +1,384 @@
+{
+  "appointments": [
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "complete",
+      "date": "2023-09-10T09:00:00.000+00:00",
+      "type": "General Check-up",
+      "reason": "Annual health examination",
+      "synopsis": "Overall health is good. Discussed stress management techniques.",
+      "measurements": [
+        { "value": 65, "type": "Height" },
+        { "value": 135, "type": "Weight" },
+        { "value": 110, "type": "Blood Pressure (systolic)" },
+        { "value": 75, "type": "Blood Pressure (diastolic)" },
+        { "value": 78, "type": "Heart Rate" },
+        { "value": 98.2, "type": "Temperature" },
+        { "value": 99, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Graphic Designer" },
+        { "type": "Lifestyle", "value": "Moderately active" },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Occasionally" },
+        { "type": "Alcohol Use", "value": "Moderately" }
+      ]
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "complete",
+      "date": "2023-10-15T10:00:00.000+00:00",
+      "type": "Migraine Consultation",
+      "reason": "Evaluation of migraine patterns and triggers",
+      "synopsis": "Migraines appear to be primarily stress-related. Recommended continuing current medication and increasing aerobic exercise.",
+      "measurements": [
+        { "value": 65, "type": "Height" },
+        { "value": 136, "type": "Weight" },
+        { "value": 112, "type": "Blood Pressure (systolic)" },
+        { "value": 74, "type": "Blood Pressure (diastolic)" },
+        { "value": 76, "type": "Heart Rate" },
+        { "value": 98.6, "type": "Temperature" },
+        { "value": 98, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Graphic Designer" },
+        { "type": "Lifestyle", "value": "Moderate exercise 3x a week" },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Weekly" },
+        { "type": "Alcohol Use", "value": "Socially" }
+      ]
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "complete",
+      "date": "2023-11-20T09:30:00.000+00:00",
+      "type": "Nutritional Counseling",
+      "reason": "Optimize diet for health and wellness",
+      "synopsis": "Advised on a balanced diet rich in fruits, vegetables, whole grains, and lean proteins. Recommended vitamin D supplement.",
+      "measurements": [
+        { "value": 65, "type": "Height" },
+        { "value": 134, "type": "Weight" },
+        { "value": 115, "type": "Blood Pressure (systolic)" },
+        { "value": 78, "type": "Blood Pressure (diastolic)" },
+        { "value": 77, "type": "Heart Rate" },
+        { "value": 98.1, "type": "Temperature" },
+        { "value": 97, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Graphic Designer" },
+        { "type": "Lifestyle", "value": "Balanced diet with routine exercise" },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Monthly" },
+        { "type": "Alcohol Use", "value": "Occasionally" }
+      ]
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "complete",
+      "date": "2023-12-15T11:00:00.000+00:00",
+      "type": "Stress Management Session",
+      "reason": "Consultation for stress relief techniques",
+      "synopsis": "Introduced to several stress management techniques including yoga, meditation, and deep breathing exercises. Encouraged to practice regularly.",
+      "measurements": [
+        { "value": 65, "type": "Height" },
+        { "value": 133, "type": "Weight" },
+        { "value": 110, "type": "Blood Pressure (systolic)" },
+        { "value": 70, "type": "Blood Pressure (diastolic)" },
+        { "value": 80, "type": "Heart Rate" },
+        { "value": 98.0, "type": "Temperature" },
+        { "value": 99, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Graphic Designer" },
+        {
+          "type": "Lifestyle",
+          "value": "Actively practices stress relief techniques"
+        },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Seldom" },
+        { "type": "Alcohol Use", "value": "Moderately" }
+      ]
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "complete",
+      "date": "2024-01-20T09:45:00.000+00:00",
+      "type": "Exercise Routine Review",
+      "reason": "Assess current exercise routine and make necessary modifications",
+      "synopsis": "Current routine is effective in maintaining health. Suggested adding strength training exercises.",
+      "measurements": [
+        { "value": 65, "type": "Height" },
+        { "value": 132, "type": "Weight" },
+        { "value": 108, "type": "Blood Pressure (systolic)" },
+        { "value": 72, "type": "Blood Pressure (diastolic)" },
+        { "value": 75, "type": "Heart Rate" },
+        { "value": 98.4, "type": "Temperature" },
+        { "value": 99, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Graphic Designer" },
+        { "type": "Lifestyle", "value": "Active with consistent exercise" },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Occasionally" },
+        { "type": "Alcohol Use", "value": "Social drinker" }
+      ]
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "complete",
+      "date": "2024-02-18T10:30:00.000+00:00",
+      "type": "Sleep Quality Review",
+      "reason": "Evaluate sleep patterns and discuss sleep hygiene",
+      "synopsis": "Reports difficulty falling asleep. Recommended adhering to a regular sleep schedule and reducing screen time before bed.",
+      "measurements": [
+        { "value": 65, "type": "Height" },
+        { "value": 133, "type": "Weight" },
+        { "value": 111, "type": "Blood Pressure (systolic)" },
+        { "value": 73, "type": "Blood Pressure (diastolic)" },
+        { "value": 78, "type": "Heart Rate" },
+        { "value": 98.3, "type": "Temperature" },
+        { "value": 98, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Graphic Designer" },
+        {
+          "type": "Lifestyle",
+          "value": "Follows a regular exercise regime, practices good sleep hygiene"
+        },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Rarely" },
+        { "type": "Alcohol Use", "value": "Occasionally" }
+      ]
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "complete",
+      "date": "2024-03-05T08:30:00.000+00:00",
+      "type": "Allergy Follow-up",
+      "reason": "Seasonal allergy assessment and management",
+      "synopsis": "Seasonal allergies stable with current medication. Continue same treatment and revisit in 6 months or if symptoms worsen.",
+      "measurements": [
+        { "value": 65, "type": "Height" },
+        { "value": 130, "type": "Weight" },
+        { "value": 109, "type": "Blood Pressure (systolic)" },
+        { "value": 71, "type": "Blood Pressure (diastolic)" },
+        { "value": 79, "type": "Heart Rate" },
+        { "value": 98.5, "type": "Temperature" },
+        { "value": 97, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Graphic Designer" },
+        {
+          "type": "Lifestyle",
+          "value": "Maintains an active and balanced lifestyle"
+        },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Occasionally" },
+        { "type": "Alcohol Use", "value": "Moderate" }
+      ]
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-05T09:30:00.000+00:00",
+      "type": "Skin Care Consultation",
+      "reason": "Routine skincare check-up and acne management"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-06T10:30:00.000+00:00",
+      "type": "Hair Health Review",
+      "reason": "Assessment of hair loss and scalp health"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-07T11:30:00.000+00:00",
+      "type": "Nail Health Evaluation",
+      "reason": "Examination of nail strength and health"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-08T09:00:00.000+00:00",
+      "type": "Dietary Supplement Review",
+      "reason": "Evaluation of current dietary supplements and adjustments if needed"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-09T10:00:00.000+00:00",
+      "type": "Mental Well-being Check",
+      "reason": "Routine mental health and well-being assessment"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-10T11:00:00.000+00:00",
+      "type": "Vision Screening",
+      "reason": "Annual vision examination and eye health review"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-11T10:45:00.000+00:00",
+      "type": "Hearing Assessment",
+      "reason": "Routine hearing test and ear examination"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-12T09:15:00.000+00:00",
+      "type": "Physical Activity Planning",
+      "reason": "Review and plan physical activity and exercise regime"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-13T10:15:00.000+00:00",
+      "type": "Chronic Disease Management",
+      "reason": "Follow-up on chronic conditions and adjust treatment plan"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-14T11:15:00.000+00:00",
+      "type": "Stress Relief Session",
+      "reason": "Engagement in stress relief activities and techniques"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-15T09:45:00.000+00:00",
+      "type": "Sleep Pattern Analysis",
+      "reason": "Review sleep quality and discuss improvements"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-16T10:45:00.000+00:00",
+      "type": "Foot Health Examination",
+      "reason": "Routine check of foot health and function"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-17T09:30:00.000+00:00",
+      "type": "Allergy Management Update",
+      "reason": "Seasonal allergy reassessment and treatment update"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-18T10:30:00.000+00:00",
+      "type": "Medication Review",
+      "reason": "Comprehensive review of current medications"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-19T11:30:00.000+00:00",
+      "type": "Workplace Ergonomics Assessment",
+      "reason": "Evaluation of workspace for ergonomics and adjustments for spinal health"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-20T09:00:00.000+00:00",
+      "type": "Body Composition Analysis",
+      "reason": "Assessment of body fat and muscle distribution"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-21T10:00:00.000+00:00",
+      "type": "Preventative Screening",
+      "reason": "Routine screenings for early detection of diseases"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-22T11:00:00.000+00:00",
+      "type": "Energy Level Evaluation",
+      "reason": "Assessment of overall energy levels and fatigue"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-23T09:15:00.000+00:00",
+      "type": "Hydration Status Check",
+      "reason": "Review hydration practices and strategies for improvement"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-24T10:15:00.000+00:00",
+      "type": "Mood Tracking and Management",
+      "reason": "Monitoring of mood patterns and mental health strategies"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-25T11:15:00.000+00:00",
+      "type": "Digestive Health Consult",
+      "reason": "Review of digestive health and gastrointestinal function"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-26T09:30:00.000+00:00",
+      "type": "Reproductive Health Check-up",
+      "reason": "Annual reproductive health examination and counseling"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-27T10:30:00.000+00:00",
+      "type": "Cardiovascular Health Review",
+      "reason": "Assessment of heart health and blood pressure management"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-28T11:00:00.000+00:00",
+      "type": "Bone Density Screening",
+      "reason": "Evaluation for osteoporosis and bone health"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-29T09:45:00.000+00:00",
+      "type": "Immune System Function Test",
+      "reason": "Test for immune function and potential deficiencies"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-30T10:45:00.000+00:00",
+      "type": "Lifestyle Modification Planning",
+      "reason": "Discussion of potential lifestyle changes for health improvement"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-03-31T11:30:00.000+00:00",
+      "type": "Endocrine System Review",
+      "reason": "Check-up on hormones and endocrine health"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-04-01T09:00:00.000+00:00",
+      "type": "Wellness and Happiness Coaching",
+      "reason": "Coaching session for enhancing personal wellness and happiness"
+    },
+    {
+      "patient": "Cassandra E. Willows",
+      "status": "scheduled",
+      "date": "2024-04-02T10:00:00.000+00:00",
+      "type": "Annual Physical Exam",
+      "reason": "Comprehensive physical examination and health review"
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "appointments": [
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "complete",
+      "date": "2023-09-05T09:00:00.000+00:00",
+      "type": "General Check-up",
+      "reason": "Annual physical examination",
+      "synopsis": "Patient in good overall health, advised to continue current diet and exercise regimen.",
+      "measurements": [
+        { "value": 70, "type": "Height" },
+        { "value": 180, "type": "Weight" },
+        { "value": 120, "type": "Blood Pressure (systolic)" },
+        { "value": 80, "type": "Blood Pressure (diastolic)" },
+        { "value": 72, "type": "Heart Rate" },
+        { "value": 98.6, "type": "Temperature" },
+        { "value": 98, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Software Developer" },
+        { "type": "Lifestyle", "value": "Physically active" },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Never" },
+        { "type": "Alcohol Use", "value": "Socially" }
+      ]
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "complete",
+      "date": "2023-10-10T10:00:00.000+00:00",
+      "type": "Nutrition Consultation",
+      "reason": "Diet optimization for GERD management",
+      "synopsis": "Patient given dietary modifications to help manage GERD symptoms. Recommended follow-up in one month.",
+      "measurements": [
+        { "value": 70, "type": "Height" },
+        { "value": 178, "type": "Weight" },
+        { "value": 122, "type": "Blood Pressure (systolic)" },
+        { "value": 79, "type": "Blood Pressure (diastolic)" },
+        { "value": 70, "type": "Heart Rate" },
+        { "value": 98.4, "type": "Temperature" },
+        { "value": 97, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Software Developer" },
+        {
+          "type": "Lifestyle",
+          "value": "Physically active with regular exercise"
+        },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Occasionally" },
+        { "type": "Alcohol Use", "value": "Occasionally" }
+      ]
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "complete",
+      "date": "2023-11-15T11:30:00.000+00:00",
+      "type": "Fitness Evaluation",
+      "reason": "Evaluate physical fitness level and adjust exercise regimen",
+      "synopsis": "Patient's fitness level is above average for age group. Recommended increasing cardiovascular exercises.",
+      "measurements": [
+        { "value": 71, "type": "Height" },
+        { "value": 176, "type": "Weight" },
+        { "value": 118, "type": "Blood Pressure (systolic)" },
+        { "value": 78, "type": "Blood Pressure (diastolic)" },
+        { "value": 74, "type": "Heart Rate" },
+        { "value": 98.7, "type": "Temperature" },
+        { "value": 99, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Software Developer" },
+        {
+          "type": "Lifestyle",
+          "value": "Active lifestyle with a balanced diet"
+        },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Rarely" },
+        { "type": "Alcohol Use", "value": "Socially" }
+      ]
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "complete",
+      "date": "2023-12-20T09:45:00.000+00:00",
+      "type": "GERD Follow-up",
+      "reason": "Assessment of GERD management and symptoms",
+      "synopsis": "Patient reports significant improvement in GERD symptoms with dietary changes. No further action required.",
+      "measurements": [
+        { "value": 71, "type": "Height" },
+        { "value": 175, "type": "Weight" },
+        { "value": 119, "type": "Blood Pressure (systolic)" },
+        { "value": 77, "type": "Blood Pressure (diastolic)" },
+        { "value": 72, "type": "Heart Rate" },
+        { "value": 98.3, "type": "Temperature" },
+        { "value": 98, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Software Developer" },
+        { "type": "Lifestyle", "value": "Active lifestyle" },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Never" },
+        { "type": "Alcohol Use", "value": "Moderate" }
+      ]
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "complete",
+      "date": "2024-01-25T14:00:00.000+00:00",
+      "type": "Mental Health Screening",
+      "reason": "Routine mental health check-up",
+      "synopsis": "Patient feels generally satisfied and happy with life. Low stress levels. No action needed.",
+      "measurements": [
+        { "value": 71, "type": "Height" },
+        { "value": 175, "type": "Weight" },
+        { "value": 120, "type": "Blood Pressure (systolic)" },
+        { "value": 80, "type": "Blood Pressure (diastolic)" },
+        { "value": 70, "type": "Heart Rate" },
+        { "value": 98.6, "type": "Temperature" },
+        { "value": 97, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Software Developer" },
+        { "type": "Lifestyle", "value": "Active, healthy lifestyle" },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Occasionally" },
+        { "type": "Alcohol Use", "value": "Socially" }
+      ]
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "complete",
+      "date": "2024-02-18T15:30:00.000+00:00",
+      "type": "Allergy Review",
+      "reason": "Annual review of allergy profile and management plan",
+      "synopsis": "No new allergies. Continues to avoid penicillin. Use alternative antibiotics if needed.",
+      "measurements": [
+        { "value": 71, "type": "Height" },
+        { "value": 173, "type": "Weight" },
+        { "value": 121, "type": "Blood Pressure (systolic)" },
+        { "value": 78, "type": "Blood Pressure (diastolic)" },
+        { "value": 69, "type": "Heart Rate" },
+        { "value": 98.2, "type": "Temperature" },
+        { "value": 98, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Software Developer" },
+        { "type": "Lifestyle", "value": "Regular exercise, healthy eating" },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Socially" },
+        { "type": "Alcohol Use", "value": "Occasionally" }
+      ]
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "complete",
+      "date": "2024-03-05T16:00:00.000+00:00",
+      "type": "Preventive Screening",
+      "reason": "Routine colon cancer screening recommended for age group",
+      "synopsis": "Screening unremarkable. Standard risk assessment. No further action required until next screening cycle.",
+      "measurements": [
+        { "value": 71, "type": "Height" },
+        { "value": 174, "type": "Weight" },
+        { "value": 122, "type": "Blood Pressure (systolic)" },
+        { "value": 81, "type": "Blood Pressure (diastolic)" },
+        { "value": 68, "type": "Heart Rate" },
+        { "value": 98.4, "type": "Temperature" },
+        { "value": 98, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Software Developer" },
+        {
+          "type": "Lifestyle",
+          "value": "Active lifestyle with balanced diet and regular exercise"
+        },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Socially" },
+        { "type": "Alcohol Use", "value": "Occasionally" }
+      ]
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-05T09:00:00.000+00:00",
+      "type": "Follow-up Consultation",
+      "reason": "Review GERD management progress"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-06T10:00:00.000+00:00",
+      "type": "Nutrition Counseling",
+      "reason": "Dietary adjustments for GERD"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-07T11:00:00.000+00:00",
+      "type": "Physical Therapy",
+      "reason": "Lower back pain management"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-08T09:30:00.000+00:00",
+      "type": "Mental Health Check",
+      "reason": "Routine stress level assessment"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-09T09:45:00.000+00:00",
+      "type": "Dermatology Consultation",
+      "reason": "Examination of skin rash"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-10T10:15:00.000+00:00",
+      "type": "Cardiology Consultation",
+      "reason": "Annual heart health check-up"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-11T10:30:00.000+00:00",
+      "type": "Ophthalmology Examination",
+      "reason": "Annual Eye Exam"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-12T11:00:00.000+00:00",
+      "type": "Allergy Testing",
+      "reason": "Seasonal allergy review"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-13T09:00:00.000+00:00",
+      "type": "General Check-up",
+      "reason": "Routine physical examination"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-14T09:30:00.000+00:00",
+      "type": "Endocrinology Consult",
+      "reason": "Thyroid function follow-up"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-15T10:00:00.000+00:00",
+      "type": "Podiatry Appointment",
+      "reason": "Routine foot health check"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-16T10:30:00.000+00:00",
+      "type": "Neurology Consultation",
+      "reason": "Migraine management review"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-17T11:00:00.000+00:00",
+      "type": "Pulmonology Screening",
+      "reason": "Asthma control evaluation"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-18T09:00:00.000+00:00",
+      "type": "Rheumatology Consult",
+      "reason": "Arthritis symptom follow-up"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-19T09:45:00.000+00:00",
+      "type": "Dental Check-up",
+      "reason": "Routine dental health assessment"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-20T10:30:00.000+00:00",
+      "type": "Hepatology Consultation",
+      "reason": "Liver function assessment"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-21T11:15:00.000+00:00",
+      "type": "Urology Appointment",
+      "reason": "Routine prostate health check"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-22T10:00:00.000+00:00",
+      "type": "Gastroenterology Consult",
+      "reason": "GERD follow-up"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-23T09:15:00.000+00:00",
+      "type": "Orthopedic Consultation",
+      "reason": "Follow-up on knee pain"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-24T10:45:00.000+00:00",
+      "type": "ENT Consultation",
+      "reason": "Annual ear, nose, throat check-up"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-25T09:30:00.000+00:00",
+      "type": "Hematology Consult",
+      "reason": "Blood disorder management"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-26T10:30:00.000+00:00",
+      "type": "Nephrology Consultation",
+      "reason": "Kidney function follow-up"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-27T11:00:00.000+00:00",
+      "type": "Psychiatry Session",
+      "reason": "Mental health maintenance"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-28T09:45:00.000+00:00",
+      "type": "Vascular Surgery Consult",
+      "reason": "Varicose veins assessment"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-29T10:15:00.000+00:00",
+      "type": "Plastic Surgery Consult",
+      "reason": "Cosmetic procedure inquiry"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-30T11:30:00.000+00:00",
+      "type": "General Surgery Consult",
+      "reason": "Discussion on hernia repair options"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-03-31T09:00:00.000+00:00",
+      "type": "Infectious Disease Consult",
+      "reason": "Travel vaccinations consultation"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-04-01T10:45:00.000+00:00",
+      "type": "Sports Medicine Consult",
+      "reason": "Assessment of exercise-induced injuries"
+    },
+    {
+      "patient": "Terry J. Hapkins",
+      "status": "scheduled",
+      "date": "2024-04-02T11:15:00.000+00:00",
+      "type": "Obstetrics/Gynecology Appointment",
+      "reason": "Routine check-up"
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+[
+  {
+    "_id": "65e78333dfd64159ca0b52d6",
+    "name": "Terry J. Hapkins",
+    "initials": "TJH",
+    "age": 34,
+    "birthDate": "1989-04-12T00:00:00.000Z",
+    "gender": "male",
+    "appointments": [
+      "65e786f0dcfa87720c8ef45b",
+      "65e786f0dcfa87720c8ef468",
+      "65e786f0dcfa87720c8ef475",
+      "65e786f0dcfa87720c8ef482",
+      "65e786f0dcfa87720c8ef48f",
+      "65e786f0dcfa87720c8ef49c",
+      "65e786f0dcfa87720c8ef4a9",
+      "65e786f0dcfa87720c8ef4b6",
+      "65e786f0dcfa87720c8ef4b7",
+      "65e786f0dcfa87720c8ef4b8",
+      "65e786f0dcfa87720c8ef4b9",
+      "65e786f0dcfa87720c8ef4ba",
+      "65e786f0dcfa87720c8ef4bb",
+      "65e786f0dcfa87720c8ef4bc",
+      "65e786f0dcfa87720c8ef4bd",
+      "65e786f0dcfa87720c8ef4be",
+      "65e786f0dcfa87720c8ef4bf",
+      "65e786f0dcfa87720c8ef4c0",
+      "65e786f0dcfa87720c8ef4c1",
+      "65e786f0dcfa87720c8ef4c2",
+      "65e786f0dcfa87720c8ef4c3",
+      "65e786f0dcfa87720c8ef4c4",
+      "65e786f0dcfa87720c8ef4c5",
+      "65e786f0dcfa87720c8ef4c6",
+      "65e786f0dcfa87720c8ef4c7",
+      "65e786f0dcfa87720c8ef4c8",
+      "65e786f0dcfa87720c8ef4c9",
+      "65e786f0dcfa87720c8ef4ca",
+      "65e786f0dcfa87720c8ef4cb",
+      "65e786f0dcfa87720c8ef4cc",
+      "65e786f0dcfa87720c8ef4cd",
+      "65e786f0dcfa87720c8ef4ce",
+      "65e786f0dcfa87720c8ef4cf",
+      "65e786f0dcfa87720c8ef4d0",
+      "65e786f0dcfa87720c8ef4d1",
+      "65e786f0dcfa87720c8ef4d2"
+    ],
+    "notes": [
+      {
+        "author": "Dr. Samantha Reed",
+        "date": "2024-01-20T10:30:00.000+00:00",
+        "content": "Patient complains of recurrent abdominal pain. Recommended diet modification and follow-up in 2 weeks.",
+        "summary": "Abdominal pain treatment",
+        "_id": "65e793290082c5b8fd7e8d75"
+      },
+      {
+        "author": "Dr. Samantha Reed",
+        "date": "2024-02-03T10:30:00.000+00:00",
+        "content": "Patient reports improvement in symptoms. Advised to continue dietary changes and follow-up in 1 month.",
+        "summary": "Dietary change helping",
+        "_id": "65e793290082c5b8fd7e8d76"
+      },
+      {
+        "author": "Dr. Leonard Krane",
+        "date": "2024-03-05T08:15:00.000+00:00",
+        "content": "High cholesterol levels detected. Recommended starting statin therapy and nutritional consulting.",
+        "summary": "Worrying cholesterol",
+        "_id": "65e793290082c5b8fd7e8d77"
+      },
+      {
+        "author": "Dr Demo",
+        "date": "3/5/2024",
+        "content": "Taking a note today to resolve date display problem",
+        "summary": "Dating is hard",
+        "_id": "65e793b30082c5b8fd7e8f2a"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Pantoprazole",
+        "dosage": "40mg",
+        "frequency": "Once daily",
+        "reason": "GERD",
+        "start": "2024-01-22T00:00:00.000+00:00",
+        "end": "2024-07-22T00:00:00.000+00:00",
+        "_id": "65e78333dfd64159ca0b52da"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Penicillin",
+        "severity": "Severe",
+        "reaction": "Anaphylaxis",
+        "_id": "65e78333dfd64159ca0b52db"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Dietary Counseling",
+        "reason": "Chronic GERD",
+        "start": "2024-02-01T00:00:00.000+00:00",
+        "end": "2024-08-01T00:00:00.000+00:00",
+        "_id": "65e78333dfd64159ca0b52dc"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Appendectomy",
+        "reason": "Appendicitis",
+        "date": "2015-06-15T00:00:00.000+00:00",
+        "_id": "65e78333dfd64159ca0b52dd"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Hypertension",
+        "relative": "Father",
+        "_id": "65e78333dfd64159ca0b52de"
+      }
+    ],
+    "createdAt": "2024-03-05T20:40:19.248Z",
+    "updatedAt": "2024-03-05T21:50:43.504Z",
+    "__v": 1
+  },
+  {
+    "_id": "65e78353dfd64159ca0b52e0",
+    "name": "Cassandra E. Willows",
+    "initials": "CEW",
+    "age": 28,
+    "birthDate": "1995-03-22T00:00:00.000Z",
+    "gender": "female",
+    "appointments": [
+      "65e78739dcfa87720c8ef55f",
+      "65e78739dcfa87720c8ef56c",
+      "65e78739dcfa87720c8ef579",
+      "65e78739dcfa87720c8ef586",
+      "65e78739dcfa87720c8ef593",
+      "65e78739dcfa87720c8ef5a0",
+      "65e78739dcfa87720c8ef5ad",
+      "65e78739dcfa87720c8ef5ba",
+      "65e78739dcfa87720c8ef5bb",
+      "65e78739dcfa87720c8ef5bc",
+      "65e78739dcfa87720c8ef5bd",
+      "65e78739dcfa87720c8ef5be",
+      "65e78739dcfa87720c8ef5bf",
+      "65e78739dcfa87720c8ef5c0",
+      "65e78739dcfa87720c8ef5c1",
+      "65e78739dcfa87720c8ef5c2",
+      "65e78739dcfa87720c8ef5c3",
+      "65e78739dcfa87720c8ef5c4",
+      "65e78739dcfa87720c8ef5c5",
+      "65e78739dcfa87720c8ef5c6",
+      "65e78739dcfa87720c8ef5c7",
+      "65e78739dcfa87720c8ef5c8",
+      "65e78739dcfa87720c8ef5c9",
+      "65e78739dcfa87720c8ef5ca",
+      "65e78739dcfa87720c8ef5cb",
+      "65e78739dcfa87720c8ef5cc",
+      "65e78739dcfa87720c8ef5cd",
+      "65e78739dcfa87720c8ef5ce",
+      "65e78739dcfa87720c8ef5cf",
+      "65e78739dcfa87720c8ef5d0",
+      "65e78739dcfa87720c8ef5d1",
+      "65e78739dcfa87720c8ef5d2",
+      "65e78739dcfa87720c8ef5d3",
+      "65e78739dcfa87720c8ef5d4",
+      "65e78739dcfa87720c8ef5d5",
+      "65e78739dcfa87720c8ef5d6"
+    ],
+    "notes": [
+      {
+        "author": "Dr. Clara Hughes",
+        "date": "2024-02-15T16:20:00.000+00:00",
+        "content": "Patient presented with migraine. Prescribed medication and lifestyle changes for stress management.",
+        "summary": "Migraine symptoms",
+        "_id": "65e793530082c5b8fd7e8d81"
+      },
+      {
+        "author": "Dr. Clara Hughes",
+        "date": "2024-03-01T16:20:00.000+00:00",
+        "content": "Patient reports improvement in symptoms. Advised to continue stress management program and follow-up in 3 months.",
+        "summary": "Migraine symptoms improving",
+        "_id": "65e793530082c5b8fd7e8d82"
+      },
+      {
+        "author": "Dr. Leonard Krane",
+        "date": "2024-03-05T08:15:00.000+00:00",
+        "content": "Patient was oddly combative today. Recommended further evaluation for mood disorder.",
+        "summary": "Patient combative",
+        "_id": "65e793530082c5b8fd7e8d83"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Sumatriptan",
+        "dosage": "50mg",
+        "frequency": "As needed",
+        "reason": "Migraine",
+        "start": "2024-02-17T00:00:00.000+00:00",
+        "end": "2024-08-17T00:00:00.000+00:00",
+        "_id": "65e78353dfd64159ca0b52e4"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Nuts",
+        "severity": "Moderate",
+        "reaction": "Rash",
+        "_id": "65e78353dfd64159ca0b52e5"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Stress Management Program",
+        "reason": "Migraine Prevention",
+        "start": "2024-03-01T00:00:00.000+00:00",
+        "end": "2024-09-01T00:00:00.000+00:00",
+        "_id": "65e78353dfd64159ca0b52e6"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Laser Eye Surgery",
+        "reason": "Myopia Correction",
+        "date": "2022-04-20T00:00:00.000+00:00",
+        "_id": "65e78353dfd64159ca0b52e7"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Breast Cancer",
+        "relative": "Mother",
+        "_id": "65e78353dfd64159ca0b52e8"
+      }
+    ],
+    "createdAt": "2024-03-05T20:40:51.737Z",
+    "updatedAt": "2024-03-05T21:49:07.439Z",
+    "__v": 1
+  },
+  {
+    "_id": "65e7836bdfd64159ca0b52ea",
+    "name": "Phillip S. Groves",
+    "initials": "PSG",
+    "age": 45,
+    "birthDate": "1978-07-11T00:00:00.000Z",
+    "gender": "male",
+    "appointments": [
+      "65e7877f15506236df919218",
+      "65e7877f15506236df919225",
+      "65e7877f15506236df919232",
+      "65e7877f15506236df919233",
+      "65e7877f15506236df919234",
+      "65e7877f15506236df919235",
+      "65e7877f15506236df919236",
+      "65e7877f15506236df919237",
+      "65e7877f15506236df919238",
+      "65e7877f15506236df919239",
+      "65e7877f15506236df91923a",
+      "65e7877f15506236df91923b",
+      "65e7877f15506236df91923c",
+      "65e7877f15506236df91923d",
+      "65e7877f15506236df91923e",
+      "65e7877f15506236df91923f",
+      "65e7877f15506236df919240",
+      "65e7877f15506236df919241",
+      "65e7877f15506236df919242",
+      "65e7877f15506236df919243",
+      "65e7877f15506236df919244",
+      "65e7877f15506236df919245",
+      "65e7877f15506236df919246",
+      "65e7877f15506236df919247",
+      "65e7877f15506236df919248",
+      "65e7877f15506236df919249",
+      "65e7877f15506236df91924a",
+      "65e7877f15506236df91924b",
+      "65e7877f15506236df91924c",
+      "65e7877f15506236df91924d",
+      "65e7877f15506236df91924e"
+    ],
+    "notes": [
+      {
+        "author": "Dr. Leonard Krane",
+        "date": "2024-03-05T08:15:00.000+00:00",
+        "content": "High cholesterol levels detected. Recommended starting statin therapy and nutritional consulting.",
+        "summary": "Worrying cholesterol",
+        "_id": "65e793750082c5b8fd7e8d8d"
+      },
+      {
+        "author": "Dr. Leonard Church",
+        "date": "2024-03-01T08:15:00.000+00:00",
+        "content": "Patient seems distressed. Visible signs of tears. Smiles occasionally when prompted.",
+        "summary": "Patient mentally unwell",
+        "_id": "65e793750082c5b8fd7e8d8e"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "Once daily",
+        "reason": "High Cholesterol",
+        "start": "2024-03-07T00:00:00.000+00:00",
+        "end": "2024-09-07T00:00:00.000+00:00",
+        "_id": "65e7836bdfd64159ca0b52ec"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Iodine",
+        "severity": "Low",
+        "reaction": "Hives",
+        "_id": "65e7836bdfd64159ca0b52ed"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Nutritional Counseling",
+        "reason": "High Cholesterol Management",
+        "start": "2024-03-10T00:00:00.000+00:00",
+        "end": "2024-12-10T00:00:00.000+00:00",
+        "_id": "65e7836bdfd64159ca0b52ee"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Gallbladder Removal",
+        "reason": "Gallstones",
+        "date": "2020-05-25T00:00:00.000+00:00",
+        "_id": "65e7836bdfd64159ca0b52ef"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Diabetes",
+        "relative": "Brother",
+        "_id": "65e7836bdfd64159ca0b52f0"
+      }
+    ],
+    "createdAt": "2024-03-05T20:41:15.186Z",
+    "updatedAt": "2024-03-05T21:49:41.346Z",
+    "__v": 1
+  },
+  {
+    "_id": "65e78386dfd64159ca0b52f2",
+    "name": "Beatrice L. Kindle",
+    "initials": "BLK",
+    "age": 52,
+    "birthDate": "1971-09-09T00:00:00.000Z",
+    "gender": "female",
+    "appointments": [
+      "65e787e09bc903a6f041ac6f",
+      "65e787e09bc903a6f041ac7c",
+      "65e787e09bc903a6f041ac89",
+      "65e787e09bc903a6f041ac8a",
+      "65e787e09bc903a6f041ac8b",
+      "65e787e09bc903a6f041ac8c",
+      "65e787e09bc903a6f041ac8d",
+      "65e787e09bc903a6f041ac8e",
+      "65e787e09bc903a6f041ac8f",
+      "65e787e09bc903a6f041ac90",
+      "65e787e09bc903a6f041ac91",
+      "65e787e09bc903a6f041ac92",
+      "65e787e09bc903a6f041ac93",
+      "65e787e09bc903a6f041ac94",
+      "65e787e09bc903a6f041ac95",
+      "65e787e09bc903a6f041ac96",
+      "65e787e09bc903a6f041ac97",
+      "65e787e09bc903a6f041ac98",
+      "65e787e09bc903a6f041ac99",
+      "65e787e09bc903a6f041ac9a",
+      "65e787e09bc903a6f041ac9b",
+      "65e787e09bc903a6f041ac9c",
+      "65e787e09bc903a6f041ac9d",
+      "65e787e09bc903a6f041ac9e",
+      "65e787e09bc903a6f041ac9f",
+      "65e787e09bc903a6f041aca0",
+      "65e787e09bc903a6f041aca1",
+      "65e787e09bc903a6f041aca2",
+      "65e787e09bc903a6f041aca3",
+      "65e787e09bc903a6f041aca4"
+    ],
+    "notes": [
+      {
+        "author": "Dr. Emily Stanton",
+        "date": "2024-03-01T14:30:00.000+00:00",
+        "content": "Diagnosis of Type 2 Diabetes Mellitus, initiating management plan including medication and lifestyle changes.",
+        "summary": "Diabetes Management",
+        "_id": "65e7938d0082c5b8fd7e8d96"
+      },
+      {
+        "author": "Dr. Clara Hughes",
+        "date": "2022-08-12T16:20:00.000+00:00",
+        "content": "Patient presented with migraine. Prescribed medication and lifestyle changes for stress management.",
+        "summary": "Migraine symptoms",
+        "_id": "65e7938d0082c5b8fd7e8d97"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily",
+        "reason": "Type 2 Diabetes",
+        "start": "2024-04-03T00:00:00.000+00:00",
+        "end": "2025-04-03T00:00:00.000+00:00",
+        "_id": "65e78386dfd64159ca0b52f5"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Aspirin",
+        "severity": "Mild",
+        "reaction": "Gastrointestinal upset",
+        "_id": "65e78386dfd64159ca0b52f6"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Diabetes Education",
+        "reason": "Diabetes Management",
+        "start": "2024-04-10T00:00:00.000+00:00",
+        "end": "2024-10-10T00:00:00.000+00:00",
+        "_id": "65e78386dfd64159ca0b52f7"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Total Knee Replacement",
+        "reason": "Osteoarthritis",
+        "date": "2023-08-16T00:00:00.000+00:00",
+        "_id": "65e78386dfd64159ca0b52f8"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Coronary Artery Disease",
+        "relative": "Father",
+        "_id": "65e78386dfd64159ca0b52f9"
+      }
+    ],
+    "createdAt": "2024-03-05T20:41:42.317Z",
+    "updatedAt": "2024-03-05T21:50:05.168Z",
+    "__v": 1
+  }
+]

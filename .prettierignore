@@ -1,0 +1,10 @@
+package-lock.json
+package.json
+README.md
+babel.config.json
+.prettierrc.json
+.eslintrc.json
+.gitignore
+.eslintignore
+.prettierignore
+dist/

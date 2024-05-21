@@ -1,0 +1,3113 @@
+[
+  {
+    "_id": "65e786f0dcfa87720c8ef4b6",
+    "date": "2024-03-05T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Follow-up Consultation",
+    "reason": "Review GERD management progress",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.070Z",
+    "updatedAt": "2024-03-05T21:01:17.424Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4b7",
+    "date": "2024-03-06T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Nutrition Counseling",
+    "reason": "Dietary adjustments for GERD",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.070Z",
+    "updatedAt": "2024-03-05T21:02:27.522Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4b8",
+    "date": "2024-03-07T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Physical Therapy",
+    "reason": "Lower back pain management",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.070Z",
+    "updatedAt": "2024-03-05T21:01:17.424Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4bb",
+    "date": "2024-03-10T10:15:00.000Z",
+    "status": "scheduled",
+    "type": "Cardiology Consultation",
+    "reason": "Annual heart health check-up",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.070Z",
+    "updatedAt": "2024-03-05T21:02:27.522Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4bc",
+    "date": "2024-03-11T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Ophthalmology Examination",
+    "reason": "Annual Eye Exam",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.070Z",
+    "updatedAt": "2024-03-05T21:01:17.424Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4bd",
+    "date": "2024-03-12T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Allergy Testing",
+    "reason": "Seasonal allergy review",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.070Z",
+    "updatedAt": "2024-03-05T21:02:27.522Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4be",
+    "date": "2024-03-13T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "General Check-up",
+    "reason": "Routine physical examination",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.424Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4bf",
+    "date": "2024-03-14T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Endocrinology Consult",
+    "reason": "Thyroid function follow-up",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:02:27.522Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4c0",
+    "date": "2024-03-15T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Podiatry Appointment",
+    "reason": "Routine foot health check",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.424Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4c1",
+    "date": "2024-03-16T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Neurology Consultation",
+    "reason": "Migraine management review",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:02:27.522Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4c2",
+    "date": "2024-03-17T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Pulmonology Screening",
+    "reason": "Asthma control evaluation",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.424Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4c3",
+    "date": "2024-03-18T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Rheumatology Consult",
+    "reason": "Arthritis symptom follow-up",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:02:27.522Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4c4",
+    "date": "2024-03-19T09:45:00.000Z",
+    "status": "scheduled",
+    "type": "Dental Check-up",
+    "reason": "Routine dental health assessment",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.424Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4c5",
+    "date": "2024-03-20T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Hepatology Consultation",
+    "reason": "Liver function assessment",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:02:27.522Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4c6",
+    "date": "2024-03-21T11:15:00.000Z",
+    "status": "scheduled",
+    "type": "Urology Appointment",
+    "reason": "Routine prostate health check",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.424Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4c8",
+    "date": "2024-03-23T09:15:00.000Z",
+    "status": "scheduled",
+    "type": "Orthopedic Consultation",
+    "reason": "Follow-up on knee pain",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:02:27.522Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4c7",
+    "date": "2024-03-22T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Gastroenterology Consult",
+    "reason": "GERD follow-up",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.424Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4c9",
+    "date": "2024-03-24T10:45:00.000Z",
+    "status": "scheduled",
+    "type": "ENT Consultation",
+    "reason": "Annual ear, nose, throat check-up",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:02:27.522Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4ca",
+    "date": "2024-03-25T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Hematology Consult",
+    "reason": "Blood disorder management",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.424Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4cb",
+    "date": "2024-03-26T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Nephrology Consultation",
+    "reason": "Kidney function follow-up",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4cc",
+    "date": "2024-03-27T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Psychiatry Session",
+    "reason": "Mental health maintenance",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4cd",
+    "date": "2024-03-28T09:45:00.000Z",
+    "status": "scheduled",
+    "type": "Vascular Surgery Consult",
+    "reason": "Varicose veins assessment",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4ce",
+    "date": "2024-03-29T10:15:00.000Z",
+    "status": "scheduled",
+    "type": "Plastic Surgery Consult",
+    "reason": "Cosmetic procedure inquiry",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4cf",
+    "date": "2024-03-30T11:30:00.000Z",
+    "status": "scheduled",
+    "type": "General Surgery Consult",
+    "reason": "Discussion on hernia repair options",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4d0",
+    "date": "2024-03-31T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Infectious Disease Consult",
+    "reason": "Travel vaccinations consultation",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4d1",
+    "date": "2024-04-01T10:45:00.000Z",
+    "status": "scheduled",
+    "type": "Sports Medicine Consult",
+    "reason": "Assessment of exercise-induced injuries",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4d2",
+    "date": "2024-04-02T11:15:00.000Z",
+    "status": "scheduled",
+    "type": "Obstetrics/Gynecology Appointment",
+    "reason": "Routine check-up",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.071Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef45b",
+    "date": "2023-09-05T09:00:00.000Z",
+    "status": "complete",
+    "type": "General Check-up",
+    "reason": "Annual physical examination",
+    "synopsis": "Patient in good overall health, advised to continue current diet and exercise regimen.",
+    "measurements": [
+      {
+        "value": 70,
+        "type": "Height",
+        "_id": "65e786f0dcfa87720c8ef45c"
+      },
+      {
+        "value": 180,
+        "type": "Weight",
+        "_id": "65e786f0dcfa87720c8ef45d"
+      },
+      {
+        "value": 120,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e786f0dcfa87720c8ef45e"
+      },
+      {
+        "value": 80,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e786f0dcfa87720c8ef45f"
+      },
+      {
+        "value": 72,
+        "type": "Heart Rate",
+        "_id": "65e786f0dcfa87720c8ef460"
+      },
+      {
+        "value": 98.6,
+        "type": "Temperature",
+        "_id": "65e786f0dcfa87720c8ef461"
+      },
+      {
+        "value": 98,
+        "type": "Blood O2",
+        "_id": "65e786f0dcfa87720c8ef462"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Software Developer",
+        "_id": "65e786f0dcfa87720c8ef463"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Physically active",
+        "_id": "65e786f0dcfa87720c8ef464"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e786f0dcfa87720c8ef465"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Never",
+        "_id": "65e786f0dcfa87720c8ef466"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Socially",
+        "_id": "65e786f0dcfa87720c8ef467"
+      }
+    ],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.086Z",
+    "updatedAt": "2024-03-05T21:02:27.543Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef468",
+    "date": "2023-10-10T10:00:00.000Z",
+    "status": "complete",
+    "type": "Nutrition Consultation",
+    "reason": "Diet optimization for GERD management",
+    "synopsis": "Patient given dietary modifications to help manage GERD symptoms. Recommended follow-up in one month.",
+    "measurements": [
+      {
+        "value": 70,
+        "type": "Height",
+        "_id": "65e786f0dcfa87720c8ef469"
+      },
+      {
+        "value": 178,
+        "type": "Weight",
+        "_id": "65e786f0dcfa87720c8ef46a"
+      },
+      {
+        "value": 122,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e786f0dcfa87720c8ef46b"
+      },
+      {
+        "value": 79,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e786f0dcfa87720c8ef46c"
+      },
+      {
+        "value": 70,
+        "type": "Heart Rate",
+        "_id": "65e786f0dcfa87720c8ef46d"
+      },
+      {
+        "value": 98.4,
+        "type": "Temperature",
+        "_id": "65e786f0dcfa87720c8ef46e"
+      },
+      {
+        "value": 97,
+        "type": "Blood O2",
+        "_id": "65e786f0dcfa87720c8ef46f"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Software Developer",
+        "_id": "65e786f0dcfa87720c8ef470"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Physically active with regular exercise",
+        "_id": "65e786f0dcfa87720c8ef471"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e786f0dcfa87720c8ef472"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Occasionally",
+        "_id": "65e786f0dcfa87720c8ef473"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Occasionally",
+        "_id": "65e786f0dcfa87720c8ef474"
+      }
+    ],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.086Z",
+    "updatedAt": "2024-03-05T21:01:17.440Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef475",
+    "date": "2023-11-15T11:30:00.000Z",
+    "status": "complete",
+    "type": "Fitness Evaluation",
+    "reason": "Evaluate physical fitness level and adjust exercise regimen",
+    "synopsis": "Patient's fitness level is above average for age group. Recommended increasing cardiovascular exercises.",
+    "measurements": [
+      {
+        "value": 71,
+        "type": "Height",
+        "_id": "65e786f0dcfa87720c8ef476"
+      },
+      {
+        "value": 176,
+        "type": "Weight",
+        "_id": "65e786f0dcfa87720c8ef477"
+      },
+      {
+        "value": 118,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e786f0dcfa87720c8ef478"
+      },
+      {
+        "value": 78,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e786f0dcfa87720c8ef479"
+      },
+      {
+        "value": 74,
+        "type": "Heart Rate",
+        "_id": "65e786f0dcfa87720c8ef47a"
+      },
+      {
+        "value": 98.7,
+        "type": "Temperature",
+        "_id": "65e786f0dcfa87720c8ef47b"
+      },
+      {
+        "value": 99,
+        "type": "Blood O2",
+        "_id": "65e786f0dcfa87720c8ef47c"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Software Developer",
+        "_id": "65e786f0dcfa87720c8ef47d"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Active lifestyle with a balanced diet",
+        "_id": "65e786f0dcfa87720c8ef47e"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e786f0dcfa87720c8ef47f"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Rarely",
+        "_id": "65e786f0dcfa87720c8ef480"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Socially",
+        "_id": "65e786f0dcfa87720c8ef481"
+      }
+    ],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.086Z",
+    "updatedAt": "2024-03-05T21:02:27.543Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef482",
+    "date": "2023-12-20T09:45:00.000Z",
+    "status": "complete",
+    "type": "GERD Follow-up",
+    "reason": "Assessment of GERD management and symptoms",
+    "synopsis": "Patient reports significant improvement in GERD symptoms with dietary changes. No further action required.",
+    "measurements": [
+      {
+        "value": 71,
+        "type": "Height",
+        "_id": "65e786f0dcfa87720c8ef483"
+      },
+      {
+        "value": 175,
+        "type": "Weight",
+        "_id": "65e786f0dcfa87720c8ef484"
+      },
+      {
+        "value": 119,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e786f0dcfa87720c8ef485"
+      },
+      {
+        "value": 77,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e786f0dcfa87720c8ef486"
+      },
+      {
+        "value": 72,
+        "type": "Heart Rate",
+        "_id": "65e786f0dcfa87720c8ef487"
+      },
+      {
+        "value": 98.3,
+        "type": "Temperature",
+        "_id": "65e786f0dcfa87720c8ef488"
+      },
+      {
+        "value": 98,
+        "type": "Blood O2",
+        "_id": "65e786f0dcfa87720c8ef489"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Software Developer",
+        "_id": "65e786f0dcfa87720c8ef48a"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Active lifestyle",
+        "_id": "65e786f0dcfa87720c8ef48b"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e786f0dcfa87720c8ef48c"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Never",
+        "_id": "65e786f0dcfa87720c8ef48d"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Moderate",
+        "_id": "65e786f0dcfa87720c8ef48e"
+      }
+    ],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.086Z",
+    "updatedAt": "2024-03-05T21:01:17.440Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef49c",
+    "date": "2024-02-18T15:30:00.000Z",
+    "status": "complete",
+    "type": "Allergy Review",
+    "reason": "Annual review of allergy profile and management plan",
+    "synopsis": "No new allergies. Continues to avoid penicillin. Use alternative antibiotics if needed.",
+    "measurements": [
+      {
+        "value": 71,
+        "type": "Height",
+        "_id": "65e786f0dcfa87720c8ef49d"
+      },
+      {
+        "value": 173,
+        "type": "Weight",
+        "_id": "65e786f0dcfa87720c8ef49e"
+      },
+      {
+        "value": 121,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e786f0dcfa87720c8ef49f"
+      },
+      {
+        "value": 78,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e786f0dcfa87720c8ef4a0"
+      },
+      {
+        "value": 69,
+        "type": "Heart Rate",
+        "_id": "65e786f0dcfa87720c8ef4a1"
+      },
+      {
+        "value": 98.2,
+        "type": "Temperature",
+        "_id": "65e786f0dcfa87720c8ef4a2"
+      },
+      {
+        "value": 98,
+        "type": "Blood O2",
+        "_id": "65e786f0dcfa87720c8ef4a3"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Software Developer",
+        "_id": "65e786f0dcfa87720c8ef4a4"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Regular exercise, healthy eating",
+        "_id": "65e786f0dcfa87720c8ef4a5"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e786f0dcfa87720c8ef4a6"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Socially",
+        "_id": "65e786f0dcfa87720c8ef4a7"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Occasionally",
+        "_id": "65e786f0dcfa87720c8ef4a8"
+      }
+    ],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.086Z",
+    "updatedAt": "2024-03-05T21:02:27.544Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef48f",
+    "date": "2024-01-25T14:00:00.000Z",
+    "status": "complete",
+    "type": "Mental Health Screening",
+    "reason": "Routine mental health check-up",
+    "synopsis": "Patient feels generally satisfied and happy with life. Low stress levels. No action needed.",
+    "measurements": [
+      {
+        "value": 71,
+        "type": "Height",
+        "_id": "65e786f0dcfa87720c8ef490"
+      },
+      {
+        "value": 175,
+        "type": "Weight",
+        "_id": "65e786f0dcfa87720c8ef491"
+      },
+      {
+        "value": 120,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e786f0dcfa87720c8ef492"
+      },
+      {
+        "value": 80,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e786f0dcfa87720c8ef493"
+      },
+      {
+        "value": 70,
+        "type": "Heart Rate",
+        "_id": "65e786f0dcfa87720c8ef494"
+      },
+      {
+        "value": 98.6,
+        "type": "Temperature",
+        "_id": "65e786f0dcfa87720c8ef495"
+      },
+      {
+        "value": 97,
+        "type": "Blood O2",
+        "_id": "65e786f0dcfa87720c8ef496"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Software Developer",
+        "_id": "65e786f0dcfa87720c8ef497"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Active, healthy lifestyle",
+        "_id": "65e786f0dcfa87720c8ef498"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e786f0dcfa87720c8ef499"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Occasionally",
+        "_id": "65e786f0dcfa87720c8ef49a"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Socially",
+        "_id": "65e786f0dcfa87720c8ef49b"
+      }
+    ],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.086Z",
+    "updatedAt": "2024-03-05T21:01:17.440Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4ba",
+    "date": "2024-03-09T09:45:00.000Z",
+    "status": "scheduled",
+    "type": "Dermatology Consultation",
+    "reason": "Examination of skin rash",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.070Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4b9",
+    "date": "2024-03-08T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Mental Health Check",
+    "reason": "Routine stress level assessment",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.070Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e786f0dcfa87720c8ef4a9",
+    "date": "2024-03-05T16:00:00.000Z",
+    "status": "complete",
+    "type": "Preventive Screening",
+    "reason": "Routine colon cancer screening recommended for age group",
+    "synopsis": "Screening unremarkable. Standard risk assessment. No further action required until next screening cycle.",
+    "measurements": [
+      {
+        "value": 71,
+        "type": "Height",
+        "_id": "65e786f0dcfa87720c8ef4aa"
+      },
+      {
+        "value": 174,
+        "type": "Weight",
+        "_id": "65e786f0dcfa87720c8ef4ab"
+      },
+      {
+        "value": 122,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e786f0dcfa87720c8ef4ac"
+      },
+      {
+        "value": 81,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e786f0dcfa87720c8ef4ad"
+      },
+      {
+        "value": 68,
+        "type": "Heart Rate",
+        "_id": "65e786f0dcfa87720c8ef4ae"
+      },
+      {
+        "value": 98.4,
+        "type": "Temperature",
+        "_id": "65e786f0dcfa87720c8ef4af"
+      },
+      {
+        "value": 98,
+        "type": "Blood O2",
+        "_id": "65e786f0dcfa87720c8ef4b0"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Software Developer",
+        "_id": "65e786f0dcfa87720c8ef4b1"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Active lifestyle with balanced diet and regular exercise",
+        "_id": "65e786f0dcfa87720c8ef4b2"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e786f0dcfa87720c8ef4b3"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Socially",
+        "_id": "65e786f0dcfa87720c8ef4b4"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Occasionally",
+        "_id": "65e786f0dcfa87720c8ef4b5"
+      }
+    ],
+    "patient": "65e78333dfd64159ca0b52d6",
+    "createdAt": "2024-03-05T20:56:16.087Z",
+    "updatedAt": "2024-03-05T21:02:27.544Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5bc",
+    "date": "2024-03-07T11:30:00.000Z",
+    "status": "scheduled",
+    "type": "Nail Health Evaluation",
+    "reason": "Examination of nail strength and health",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5bd",
+    "date": "2024-03-08T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Dietary Supplement Review",
+    "reason": "Evaluation of current dietary supplements and adjustments if needed",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5be",
+    "date": "2024-03-09T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Mental Well-being Check",
+    "reason": "Routine mental health and well-being assessment",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5bb",
+    "date": "2024-03-06T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Hair Health Review",
+    "reason": "Assessment of hair loss and scalp health",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5ba",
+    "date": "2024-03-05T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Skin Care Consultation",
+    "reason": "Routine skincare check-up and acne management",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5bf",
+    "date": "2024-03-10T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Vision Screening",
+    "reason": "Annual vision examination and eye health review",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5c2",
+    "date": "2024-03-13T10:15:00.000Z",
+    "status": "scheduled",
+    "type": "Chronic Disease Management",
+    "reason": "Follow-up on chronic conditions and adjust treatment plan",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5c4",
+    "date": "2024-03-15T09:45:00.000Z",
+    "status": "scheduled",
+    "type": "Sleep Pattern Analysis",
+    "reason": "Review sleep quality and discuss improvements",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5c3",
+    "date": "2024-03-14T11:15:00.000Z",
+    "status": "scheduled",
+    "type": "Stress Relief Session",
+    "reason": "Engagement in stress relief activities and techniques",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5c6",
+    "date": "2024-03-17T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Allergy Management Update",
+    "reason": "Seasonal allergy reassessment and treatment update",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5c8",
+    "date": "2024-03-19T11:30:00.000Z",
+    "status": "scheduled",
+    "type": "Workplace Ergonomics Assessment",
+    "reason": "Evaluation of workspace for ergonomics and adjustments for spinal health",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5c5",
+    "date": "2024-03-16T10:45:00.000Z",
+    "status": "scheduled",
+    "type": "Foot Health Examination",
+    "reason": "Routine check of foot health and function",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5c9",
+    "date": "2024-03-20T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Body Composition Analysis",
+    "reason": "Assessment of body fat and muscle distribution",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5ca",
+    "date": "2024-03-21T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Preventative Screening",
+    "reason": "Routine screenings for early detection of diseases",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5c7",
+    "date": "2024-03-18T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Medication Review",
+    "reason": "Comprehensive review of current medications",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5cd",
+    "date": "2024-03-24T10:15:00.000Z",
+    "status": "scheduled",
+    "type": "Mood Tracking and Management",
+    "reason": "Monitoring of mood patterns and mental health strategies",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5cb",
+    "date": "2024-03-22T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Energy Level Evaluation",
+    "reason": "Assessment of overall energy levels and fatigue",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5ce",
+    "date": "2024-03-25T11:15:00.000Z",
+    "status": "scheduled",
+    "type": "Digestive Health Consult",
+    "reason": "Review of digestive health and gastrointestinal function",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5cc",
+    "date": "2024-03-23T09:15:00.000Z",
+    "status": "scheduled",
+    "type": "Hydration Status Check",
+    "reason": "Review hydration practices and strategies for improvement",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5d0",
+    "date": "2024-03-27T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Cardiovascular Health Review",
+    "reason": "Assessment of heart health and blood pressure management",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5cf",
+    "date": "2024-03-26T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Reproductive Health Check-up",
+    "reason": "Annual reproductive health examination and counseling",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5d1",
+    "date": "2024-03-28T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Bone Density Screening",
+    "reason": "Evaluation for osteoporosis and bone health",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5d4",
+    "date": "2024-03-31T11:30:00.000Z",
+    "status": "scheduled",
+    "type": "Endocrine System Review",
+    "reason": "Check-up on hormones and endocrine health",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.479Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5d3",
+    "date": "2024-03-30T10:45:00.000Z",
+    "status": "scheduled",
+    "type": "Lifestyle Modification Planning",
+    "reason": "Discussion of potential lifestyle changes for health improvement",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.479Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5d2",
+    "date": "2024-03-29T09:45:00.000Z",
+    "status": "scheduled",
+    "type": "Immune System Function Test",
+    "reason": "Test for immune function and potential deficiencies",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.479Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5d5",
+    "date": "2024-04-01T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Wellness and Happiness Coaching",
+    "reason": "Coaching session for enhancing personal wellness and happiness",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.479Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5d6",
+    "date": "2024-04-02T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Annual Physical Exam",
+    "reason": "Comprehensive physical examination and health review",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.479Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef55f",
+    "date": "2023-09-10T09:00:00.000Z",
+    "status": "complete",
+    "type": "General Check-up",
+    "reason": "Annual health examination",
+    "synopsis": "Overall health is good. Discussed stress management techniques.",
+    "measurements": [
+      {
+        "value": 65,
+        "type": "Height",
+        "_id": "65e78739dcfa87720c8ef560"
+      },
+      {
+        "value": 135,
+        "type": "Weight",
+        "_id": "65e78739dcfa87720c8ef561"
+      },
+      {
+        "value": 110,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e78739dcfa87720c8ef562"
+      },
+      {
+        "value": 75,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e78739dcfa87720c8ef563"
+      },
+      {
+        "value": 78,
+        "type": "Heart Rate",
+        "_id": "65e78739dcfa87720c8ef564"
+      },
+      {
+        "value": 98.2,
+        "type": "Temperature",
+        "_id": "65e78739dcfa87720c8ef565"
+      },
+      {
+        "value": 99,
+        "type": "Blood O2",
+        "_id": "65e78739dcfa87720c8ef566"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Graphic Designer",
+        "_id": "65e78739dcfa87720c8ef567"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Moderately active",
+        "_id": "65e78739dcfa87720c8ef568"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e78739dcfa87720c8ef569"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Occasionally",
+        "_id": "65e78739dcfa87720c8ef56a"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Moderately",
+        "_id": "65e78739dcfa87720c8ef56b"
+      }
+    ],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.485Z",
+    "updatedAt": "2024-03-05T21:02:27.544Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef56c",
+    "date": "2023-10-15T10:00:00.000Z",
+    "status": "complete",
+    "type": "Migraine Consultation",
+    "reason": "Evaluation of migraine patterns and triggers",
+    "synopsis": "Migraines appear to be primarily stress-related. Recommended continuing current medication and increasing aerobic exercise.",
+    "measurements": [
+      {
+        "value": 65,
+        "type": "Height",
+        "_id": "65e78739dcfa87720c8ef56d"
+      },
+      {
+        "value": 136,
+        "type": "Weight",
+        "_id": "65e78739dcfa87720c8ef56e"
+      },
+      {
+        "value": 112,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e78739dcfa87720c8ef56f"
+      },
+      {
+        "value": 74,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e78739dcfa87720c8ef570"
+      },
+      {
+        "value": 76,
+        "type": "Heart Rate",
+        "_id": "65e78739dcfa87720c8ef571"
+      },
+      {
+        "value": 98.6,
+        "type": "Temperature",
+        "_id": "65e78739dcfa87720c8ef572"
+      },
+      {
+        "value": 98,
+        "type": "Blood O2",
+        "_id": "65e78739dcfa87720c8ef573"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Graphic Designer",
+        "_id": "65e78739dcfa87720c8ef574"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Moderate exercise 3x a week",
+        "_id": "65e78739dcfa87720c8ef575"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e78739dcfa87720c8ef576"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Weekly",
+        "_id": "65e78739dcfa87720c8ef577"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Socially",
+        "_id": "65e78739dcfa87720c8ef578"
+      }
+    ],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.485Z",
+    "updatedAt": "2024-03-05T21:01:17.440Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef579",
+    "date": "2023-11-20T09:30:00.000Z",
+    "status": "complete",
+    "type": "Nutritional Counseling",
+    "reason": "Optimize diet for health and wellness",
+    "synopsis": "Advised on a balanced diet rich in fruits, vegetables, whole grains, and lean proteins. Recommended vitamin D supplement.",
+    "measurements": [
+      {
+        "value": 65,
+        "type": "Height",
+        "_id": "65e78739dcfa87720c8ef57a"
+      },
+      {
+        "value": 134,
+        "type": "Weight",
+        "_id": "65e78739dcfa87720c8ef57b"
+      },
+      {
+        "value": 115,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e78739dcfa87720c8ef57c"
+      },
+      {
+        "value": 78,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e78739dcfa87720c8ef57d"
+      },
+      {
+        "value": 77,
+        "type": "Heart Rate",
+        "_id": "65e78739dcfa87720c8ef57e"
+      },
+      {
+        "value": 98.1,
+        "type": "Temperature",
+        "_id": "65e78739dcfa87720c8ef57f"
+      },
+      {
+        "value": 97,
+        "type": "Blood O2",
+        "_id": "65e78739dcfa87720c8ef580"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Graphic Designer",
+        "_id": "65e78739dcfa87720c8ef581"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Balanced diet with routine exercise",
+        "_id": "65e78739dcfa87720c8ef582"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e78739dcfa87720c8ef583"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Monthly",
+        "_id": "65e78739dcfa87720c8ef584"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Occasionally",
+        "_id": "65e78739dcfa87720c8ef585"
+      }
+    ],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.485Z",
+    "updatedAt": "2024-03-05T21:02:27.544Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef586",
+    "date": "2023-12-15T11:00:00.000Z",
+    "status": "complete",
+    "type": "Stress Management Session",
+    "reason": "Consultation for stress relief techniques",
+    "synopsis": "Introduced to several stress management techniques including yoga, meditation, and deep breathing exercises. Encouraged to practice regularly.",
+    "measurements": [
+      {
+        "value": 65,
+        "type": "Height",
+        "_id": "65e78739dcfa87720c8ef587"
+      },
+      {
+        "value": 133,
+        "type": "Weight",
+        "_id": "65e78739dcfa87720c8ef588"
+      },
+      {
+        "value": 110,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e78739dcfa87720c8ef589"
+      },
+      {
+        "value": 70,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e78739dcfa87720c8ef58a"
+      },
+      {
+        "value": 80,
+        "type": "Heart Rate",
+        "_id": "65e78739dcfa87720c8ef58b"
+      },
+      {
+        "value": 98,
+        "type": "Temperature",
+        "_id": "65e78739dcfa87720c8ef58c"
+      },
+      {
+        "value": 99,
+        "type": "Blood O2",
+        "_id": "65e78739dcfa87720c8ef58d"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Graphic Designer",
+        "_id": "65e78739dcfa87720c8ef58e"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Actively practices stress relief techniques",
+        "_id": "65e78739dcfa87720c8ef58f"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e78739dcfa87720c8ef590"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Seldom",
+        "_id": "65e78739dcfa87720c8ef591"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Moderately",
+        "_id": "65e78739dcfa87720c8ef592"
+      }
+    ],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.485Z",
+    "updatedAt": "2024-03-05T21:01:17.440Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef593",
+    "date": "2024-01-20T09:45:00.000Z",
+    "status": "complete",
+    "type": "Exercise Routine Review",
+    "reason": "Assess current exercise routine and make necessary modifications",
+    "synopsis": "Current routine is effective in maintaining health. Suggested adding strength training exercises.",
+    "measurements": [
+      {
+        "value": 65,
+        "type": "Height",
+        "_id": "65e78739dcfa87720c8ef594"
+      },
+      {
+        "value": 132,
+        "type": "Weight",
+        "_id": "65e78739dcfa87720c8ef595"
+      },
+      {
+        "value": 108,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e78739dcfa87720c8ef596"
+      },
+      {
+        "value": 72,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e78739dcfa87720c8ef597"
+      },
+      {
+        "value": 75,
+        "type": "Heart Rate",
+        "_id": "65e78739dcfa87720c8ef598"
+      },
+      {
+        "value": 98.4,
+        "type": "Temperature",
+        "_id": "65e78739dcfa87720c8ef599"
+      },
+      {
+        "value": 99,
+        "type": "Blood O2",
+        "_id": "65e78739dcfa87720c8ef59a"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Graphic Designer",
+        "_id": "65e78739dcfa87720c8ef59b"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Active with consistent exercise",
+        "_id": "65e78739dcfa87720c8ef59c"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e78739dcfa87720c8ef59d"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Occasionally",
+        "_id": "65e78739dcfa87720c8ef59e"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Social drinker",
+        "_id": "65e78739dcfa87720c8ef59f"
+      }
+    ],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.485Z",
+    "updatedAt": "2024-03-05T21:02:27.544Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5a0",
+    "date": "2024-02-18T10:30:00.000Z",
+    "status": "complete",
+    "type": "Sleep Quality Review",
+    "reason": "Evaluate sleep patterns and discuss sleep hygiene",
+    "synopsis": "Reports difficulty falling asleep. Recommended adhering to a regular sleep schedule and reducing screen time before bed.",
+    "measurements": [
+      {
+        "value": 65,
+        "type": "Height",
+        "_id": "65e78739dcfa87720c8ef5a1"
+      },
+      {
+        "value": 133,
+        "type": "Weight",
+        "_id": "65e78739dcfa87720c8ef5a2"
+      },
+      {
+        "value": 111,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e78739dcfa87720c8ef5a3"
+      },
+      {
+        "value": 73,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e78739dcfa87720c8ef5a4"
+      },
+      {
+        "value": 78,
+        "type": "Heart Rate",
+        "_id": "65e78739dcfa87720c8ef5a5"
+      },
+      {
+        "value": 98.3,
+        "type": "Temperature",
+        "_id": "65e78739dcfa87720c8ef5a6"
+      },
+      {
+        "value": 98,
+        "type": "Blood O2",
+        "_id": "65e78739dcfa87720c8ef5a7"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Graphic Designer",
+        "_id": "65e78739dcfa87720c8ef5a8"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Follows a regular exercise regime, practices good sleep hygiene",
+        "_id": "65e78739dcfa87720c8ef5a9"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e78739dcfa87720c8ef5aa"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Rarely",
+        "_id": "65e78739dcfa87720c8ef5ab"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Occasionally",
+        "_id": "65e78739dcfa87720c8ef5ac"
+      }
+    ],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.485Z",
+    "updatedAt": "2024-03-05T21:01:17.440Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5ad",
+    "date": "2024-03-05T08:30:00.000Z",
+    "status": "complete",
+    "type": "Allergy Follow-up",
+    "reason": "Seasonal allergy assessment and management",
+    "synopsis": "Seasonal allergies stable with current medication. Continue same treatment and revisit in 6 months or if symptoms worsen.",
+    "measurements": [
+      {
+        "value": 65,
+        "type": "Height",
+        "_id": "65e78739dcfa87720c8ef5ae"
+      },
+      {
+        "value": 130,
+        "type": "Weight",
+        "_id": "65e78739dcfa87720c8ef5af"
+      },
+      {
+        "value": 109,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e78739dcfa87720c8ef5b0"
+      },
+      {
+        "value": 71,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e78739dcfa87720c8ef5b1"
+      },
+      {
+        "value": 79,
+        "type": "Heart Rate",
+        "_id": "65e78739dcfa87720c8ef5b2"
+      },
+      {
+        "value": 98.5,
+        "type": "Temperature",
+        "_id": "65e78739dcfa87720c8ef5b3"
+      },
+      {
+        "value": 97,
+        "type": "Blood O2",
+        "_id": "65e78739dcfa87720c8ef5b4"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Graphic Designer",
+        "_id": "65e78739dcfa87720c8ef5b5"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Maintains an active and balanced lifestyle",
+        "_id": "65e78739dcfa87720c8ef5b6"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e78739dcfa87720c8ef5b7"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Occasionally",
+        "_id": "65e78739dcfa87720c8ef5b8"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Moderate",
+        "_id": "65e78739dcfa87720c8ef5b9"
+      }
+    ],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.485Z",
+    "updatedAt": "2024-03-05T21:02:27.544Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5c0",
+    "date": "2024-03-11T10:45:00.000Z",
+    "status": "scheduled",
+    "type": "Hearing Assessment",
+    "reason": "Routine hearing test and ear examination",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e78739dcfa87720c8ef5c1",
+    "date": "2024-03-12T09:15:00.000Z",
+    "status": "scheduled",
+    "type": "Physical Activity Planning",
+    "reason": "Review and plan physical activity and exercise regime",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78353dfd64159ca0b52e0",
+    "createdAt": "2024-03-05T20:57:29.478Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919233",
+    "date": "2024-03-06T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Dental Cleaning",
+    "reason": "Bi-annual teeth cleaning and check-up",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.249Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df919234",
+    "date": "2024-03-07T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Eye Examination",
+    "reason": "Annual vision check and prescription update",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.249Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919232",
+    "date": "2024-03-05T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Cardiology Screening",
+    "reason": "Routine heart function and risk assessment",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.249Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df919237",
+    "date": "2024-03-10T11:30:00.000Z",
+    "status": "scheduled",
+    "type": "Stress Management Workshop",
+    "reason": "Strategies for reducing and managing stress",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.249Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919239",
+    "date": "2024-03-12T10:15:00.000Z",
+    "status": "scheduled",
+    "type": "Mental Health Screening",
+    "reason": "Routine depression and anxiety screening",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.249Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df919238",
+    "date": "2024-03-11T10:45:00.000Z",
+    "status": "scheduled",
+    "type": "Sleep Hygiene Consultation",
+    "reason": "Improvement of sleep quality and habits",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.249Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df91923a",
+    "date": "2024-03-13T11:15:00.000Z",
+    "status": "scheduled",
+    "type": "Allergy Review",
+    "reason": "Seasonal allergies assessment and medication review",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.249Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df91923b",
+    "date": "2024-03-14T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Dermatology Consultation",
+    "reason": "Review of skin health and any dermatological concerns",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.249Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df91923c",
+    "date": "2024-03-15T09:45:00.000Z",
+    "status": "scheduled",
+    "type": "Respiratory Function Test",
+    "reason": "Assessment of lung function and breathing",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df91923d",
+    "date": "2024-03-16T10:45:00.000Z",
+    "status": "scheduled",
+    "type": "Hepatic Health Evaluation",
+    "reason": "Liver function test and health check",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df91923e",
+    "date": "2024-03-17T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Gastrointestinal Consult",
+    "reason": "Check-up for GERD and dietary advice",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df91923f",
+    "date": "2024-03-18T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Neurology Follow-up",
+    "reason": "Evaluation of migraine management plan effectiveness",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919240",
+    "date": "2024-03-19T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Dermatology Check",
+    "reason": "Routine skin cancer screening and acne treatment review",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df919241",
+    "date": "2024-03-20T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Endocrinology Assessment",
+    "reason": "Thyroid function test and diabetes management",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919242",
+    "date": "2024-03-21T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Psychiatry Consultation",
+    "reason": "Annual mental health evaluation",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df919243",
+    "date": "2024-03-22T11:30:00.000Z",
+    "status": "scheduled",
+    "type": "Rheumatology Appointment",
+    "reason": "Assessment of joint pain and arthritis management",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919244",
+    "date": "2024-03-23T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Pulmonology Screening",
+    "reason": "Evaluation of breathing issues and chronic cough",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df919245",
+    "date": "2024-03-24T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Orthopedic Evaluation",
+    "reason": "Follow-up on chronic knee pain and mobility issues",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919246",
+    "date": "2024-03-25T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Urology Check-up",
+    "reason": "Routine prostate exam and urinary health assessment",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df919248",
+    "date": "2024-03-27T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Hematology Check",
+    "reason": "Blood disorder evaluation and anemia check",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919247",
+    "date": "2024-03-26T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Nephrology Consultation",
+    "reason": "Kidney function evaluation and hypertension management",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df919236",
+    "date": "2024-03-09T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Fitness Assessment",
+    "reason": "Evaluation of current fitness level and exercise plan optimization",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.249Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919235",
+    "date": "2024-03-08T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Nutrition Consultation",
+    "reason": "Dietary adjustments for weight management",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.249Z",
+    "updatedAt": "2024-03-05T21:01:17.425Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df91924b",
+    "date": "2024-03-30T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Vascular Health Screening",
+    "reason": "Check-up for circulatory system health and varicose veins",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df91924d",
+    "date": "2024-04-01T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Physical Therapy",
+    "reason": "Ongoing physical therapy for back pain",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df91924c",
+    "date": "2024-03-31T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Mental Wellness Session",
+    "reason": "Stress management and cognitive behavioral therapy session",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df91924e",
+    "date": "2024-04-02T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Annual Physical Examination",
+    "reason": "Comprehensive review of overall health",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df919225",
+    "date": "2023-10-15T10:15:00.000Z",
+    "status": "complete",
+    "type": "Cholesterol Follow-up",
+    "reason": "Monitoring cholesterol levels after diet change",
+    "synopsis": "Cholesterol levels improved. Encouraged to maintain diet and exercise regimen.",
+    "measurements": [
+      {
+        "value": 71,
+        "type": "Height",
+        "_id": "65e7877f15506236df919226"
+      },
+      {
+        "value": 190,
+        "type": "Weight",
+        "_id": "65e7877f15506236df919227"
+      },
+      {
+        "value": 122,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e7877f15506236df919228"
+      },
+      {
+        "value": 80,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e7877f15506236df919229"
+      },
+      {
+        "value": 60,
+        "type": "Heart Rate",
+        "_id": "65e7877f15506236df91922a"
+      },
+      {
+        "value": 98.9,
+        "type": "Temperature",
+        "_id": "65e7877f15506236df91922b"
+      },
+      {
+        "value": 96,
+        "type": "Blood O2",
+        "_id": "65e7877f15506236df91922c"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Engineer",
+        "_id": "65e7877f15506236df91922d"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Active, exercises 4 times a week",
+        "_id": "65e7877f15506236df91922e"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e7877f15506236df91922f"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Never",
+        "_id": "65e7877f15506236df919230"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Rarely",
+        "_id": "65e7877f15506236df919231"
+      }
+    ],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.262Z",
+    "updatedAt": "2024-03-05T21:02:27.544Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919218",
+    "date": "2023-09-10T09:30:00.000Z",
+    "status": "complete",
+    "type": "Routine Check-up",
+    "reason": "Yearly physical exam",
+    "synopsis": "Patient is in good health, advised to continue balanced diet and regular exercise.",
+    "measurements": [
+      {
+        "value": 71,
+        "type": "Height",
+        "_id": "65e7877f15506236df919219"
+      },
+      {
+        "value": 195,
+        "type": "Weight",
+        "_id": "65e7877f15506236df91921a"
+      },
+      {
+        "value": 125,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e7877f15506236df91921b"
+      },
+      {
+        "value": 85,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e7877f15506236df91921c"
+      },
+      {
+        "value": 64,
+        "type": "Heart Rate",
+        "_id": "65e7877f15506236df91921d"
+      },
+      {
+        "value": 99.1,
+        "type": "Temperature",
+        "_id": "65e7877f15506236df91921e"
+      },
+      {
+        "value": 97,
+        "type": "Blood O2",
+        "_id": "65e7877f15506236df91921f"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Engineer",
+        "_id": "65e7877f15506236df919220"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Moderately active",
+        "_id": "65e7877f15506236df919221"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Never",
+        "_id": "65e7877f15506236df919222"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Never",
+        "_id": "65e7877f15506236df919223"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Occasionally",
+        "_id": "65e7877f15506236df919224"
+      }
+    ],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.262Z",
+    "updatedAt": "2024-03-05T21:01:17.440Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e7877f15506236df91924a",
+    "date": "2024-03-29T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "General Surgery Consultation",
+    "reason": "Discussion regarding potential hernia repair surgery",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e7877f15506236df919249",
+    "date": "2024-03-28T11:30:00.000Z",
+    "status": "scheduled",
+    "type": "Infectious Disease Consult",
+    "reason": "Review of travel vaccines and infectious disease prevention",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e7836bdfd64159ca0b52ea",
+    "createdAt": "2024-03-05T20:58:39.250Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac8a",
+    "date": "2024-03-07T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Cardiovascular Check-up",
+    "reason": "Annual heart and vascular system examination",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac89",
+    "date": "2024-03-06T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Osteoporosis Screening",
+    "reason": "Routine screening for bone density and osteoporosis risk",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac8b",
+    "date": "2024-03-08T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Nutrition Counseling",
+    "reason": "Diet review and optimization for diabetes management",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac8e",
+    "date": "2024-03-11T11:30:00.000Z",
+    "status": "scheduled",
+    "type": "Mental Health Review",
+    "reason": "Regular check-up on mental well-being and depression screening",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac90",
+    "date": "2024-03-13T11:15:00.000Z",
+    "status": "scheduled",
+    "type": "Hearing Check",
+    "reason": "Routine auditory function and hearing capability test",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac8f",
+    "date": "2024-03-12T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Skin Health Assessment",
+    "reason": "Examination of skin for new or changing moles and overall skin health",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac93",
+    "date": "2024-03-16T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "General Fitness Assessment",
+    "reason": "Evaluation of physical fitness and exercise recommendations",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac91",
+    "date": "2024-03-14T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Lung Function Test",
+    "reason": "Assessment of lung capacity and respiratory health",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac92",
+    "date": "2024-03-15T10:45:00.000Z",
+    "status": "scheduled",
+    "type": "Peripheral Vascular Disease Screening",
+    "reason": "Examination for any signs of peripheral artery disease",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac94",
+    "date": "2024-03-17T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Sleep Quality and Insomnia Management",
+    "reason": "Review of sleep patterns and treatment of any sleep disorders",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac95",
+    "date": "2024-03-18T11:45:00.000Z",
+    "status": "scheduled",
+    "type": "Medication Review",
+    "reason": "Comprehensive evaluation of all current medications",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac96",
+    "date": "2024-03-19T09:15:00.000Z",
+    "status": "scheduled",
+    "type": "Podiatry Consultation",
+    "reason": "Annual foot health examination for diabetic patients",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac97",
+    "date": "2024-03-20T10:45:00.000Z",
+    "status": "scheduled",
+    "type": "Pain Management Session",
+    "reason": "Management of chronic pain and arthritis",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac98",
+    "date": "2024-03-21T11:30:00.000Z",
+    "status": "scheduled",
+    "type": "Allergist Appointment",
+    "reason": "Routine allergy check and immunotherapy review",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac99",
+    "date": "2024-03-22T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Women's Health Consult",
+    "reason": "Routine gynecological exam and breast health screening",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac9b",
+    "date": "2024-03-24T11:45:00.000Z",
+    "status": "scheduled",
+    "type": "Liver Function Test",
+    "reason": "Routine liver health assessment for patients on long-term medication",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac9a",
+    "date": "2024-03-23T10:15:00.000Z",
+    "status": "scheduled",
+    "type": "Cognitive Function Test",
+    "reason": "Assessment of memory and cognitive abilities",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac9c",
+    "date": "2024-03-25T09:30:00.000Z",
+    "status": "scheduled",
+    "type": "Respiratory Assessment",
+    "reason": "Evaluation of lung function and management of COPD",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac9d",
+    "date": "2024-03-26T10:00:00.000Z",
+    "status": "scheduled",
+    "type": "Psychological Support Session",
+    "reason": "Ongoing support for mental health including depression and anxiety",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac9e",
+    "date": "2024-03-27T11:00:00.000Z",
+    "status": "scheduled",
+    "type": "Renal Health Check-up",
+    "reason": "Monitoring kidney function and effects of diabetes medication",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac8d",
+    "date": "2024-03-10T10:15:00.000Z",
+    "status": "scheduled",
+    "type": "Dental Examination",
+    "reason": "Six-month dental clean-up and oral health review",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac8c",
+    "date": "2024-03-09T09:45:00.000Z",
+    "status": "scheduled",
+    "type": "Vision and Eye Health",
+    "reason": "Regular eye check-up and vision test",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.311Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041aca1",
+    "date": "2024-03-30T11:15:00.000Z",
+    "status": "scheduled",
+    "type": "Gastroenterology Check",
+    "reason": "Management of gastrointestinal symptoms related to medication side effects",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041aca3",
+    "date": "2024-04-01T10:15:00.000Z",
+    "status": "scheduled",
+    "type": "Audiology Examination",
+    "reason": "Routine hearing check and assessment for hearing aids",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041aca2",
+    "date": "2024-03-31T09:00:00.000Z",
+    "status": "scheduled",
+    "type": "Occupational Therapy",
+    "reason": "Assessment and improvement of daily living activities and mobility",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac6f",
+    "date": "2023-09-15T09:45:00.000Z",
+    "status": "complete",
+    "type": "Diabetes Management",
+    "reason": "Quarterly diabetes review and management",
+    "synopsis": "Type 2 Diabetes Mellitus under control with current medication regimen. No changes necessary.",
+    "measurements": [
+      {
+        "value": 64,
+        "type": "Height",
+        "_id": "65e787e09bc903a6f041ac70"
+      },
+      {
+        "value": 160,
+        "type": "Weight",
+        "_id": "65e787e09bc903a6f041ac71"
+      },
+      {
+        "value": 130,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e787e09bc903a6f041ac72"
+      },
+      {
+        "value": 85,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e787e09bc903a6f041ac73"
+      },
+      {
+        "value": 68,
+        "type": "Heart Rate",
+        "_id": "65e787e09bc903a6f041ac74"
+      },
+      {
+        "value": 98.7,
+        "type": "Temperature",
+        "_id": "65e787e09bc903a6f041ac75"
+      },
+      {
+        "value": 96,
+        "type": "Blood O2",
+        "_id": "65e787e09bc903a6f041ac76"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Retired",
+        "_id": "65e787e09bc903a6f041ac77"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Lightly active",
+        "_id": "65e787e09bc903a6f041ac78"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Former smoker",
+        "_id": "65e787e09bc903a6f041ac79"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Never",
+        "_id": "65e787e09bc903a6f041ac7a"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Rarely",
+        "_id": "65e787e09bc903a6f041ac7b"
+      }
+    ],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.325Z",
+    "updatedAt": "2024-03-05T21:01:17.440Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041aca4",
+    "date": "2024-04-02T11:30:00.000Z",
+    "status": "scheduled",
+    "type": "Comprehensive Geriatric Assessment",
+    "reason": "Multidimensional assessment to optimize elderly care",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac7c",
+    "date": "2023-10-20T10:30:00.000Z",
+    "status": "complete",
+    "type": "Knee Pain Management",
+    "reason": "Follow-up on knee replacement rehabilitation",
+    "synopsis": "Good recovery progress post knee replacement. Continue with physical therapy.",
+    "measurements": [
+      {
+        "value": 64,
+        "type": "Height",
+        "_id": "65e787e09bc903a6f041ac7d"
+      },
+      {
+        "value": 158,
+        "type": "Weight",
+        "_id": "65e787e09bc903a6f041ac7e"
+      },
+      {
+        "value": 126,
+        "type": "Blood Pressure (systolic)",
+        "_id": "65e787e09bc903a6f041ac7f"
+      },
+      {
+        "value": 82,
+        "type": "Blood Pressure (diastolic)",
+        "_id": "65e787e09bc903a6f041ac80"
+      },
+      {
+        "value": 70,
+        "type": "Heart Rate",
+        "_id": "65e787e09bc903a6f041ac81"
+      },
+      {
+        "value": 98.4,
+        "type": "Temperature",
+        "_id": "65e787e09bc903a6f041ac82"
+      },
+      {
+        "value": 97,
+        "type": "Blood O2",
+        "_id": "65e787e09bc903a6f041ac83"
+      }
+    ],
+    "socialHistory": [
+      {
+        "type": "Occupation",
+        "value": "Retired",
+        "_id": "65e787e09bc903a6f041ac84"
+      },
+      {
+        "type": "Lifestyle",
+        "value": "Maintaining light activities",
+        "_id": "65e787e09bc903a6f041ac85"
+      },
+      {
+        "type": "Tobacco Use",
+        "value": "Former smoker",
+        "_id": "65e787e09bc903a6f041ac86"
+      },
+      {
+        "type": "Marijuana Use",
+        "value": "Never",
+        "_id": "65e787e09bc903a6f041ac87"
+      },
+      {
+        "type": "Alcohol Use",
+        "value": "Occasionally",
+        "_id": "65e787e09bc903a6f041ac88"
+      }
+    ],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.325Z",
+    "updatedAt": "2024-03-05T21:01:17.440Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  },
+  {
+    "_id": "65e787e09bc903a6f041ac9f",
+    "date": "2024-03-28T09:45:00.000Z",
+    "status": "scheduled",
+    "type": "Skin Health Surveillance",
+    "reason": "Examination for skin conditions or changes related to diabetes",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:02:27.523Z",
+    "__v": 0,
+    "practitioner": "65e7830edfd64159ca0b52d4"
+  },
+  {
+    "_id": "65e787e09bc903a6f041aca0",
+    "date": "2024-03-29T10:30:00.000Z",
+    "status": "scheduled",
+    "type": "Infectious Diseases Consultation",
+    "reason": "Preventative care and vaccinations for immune-compromised individuals",
+    "synopsis": "",
+    "measurements": [],
+    "socialHistory": [],
+    "patient": "65e78386dfd64159ca0b52f2",
+    "createdAt": "2024-03-05T21:00:16.312Z",
+    "updatedAt": "2024-03-05T21:01:17.426Z",
+    "__v": 0,
+    "practitioner": "65e782efdfd64159ca0b52d2"
+  }
+]

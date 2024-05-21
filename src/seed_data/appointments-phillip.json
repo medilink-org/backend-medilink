@@ -1,0 +1,255 @@
+{
+  "appointments": [
+    {
+      "patient": "Phillip S. Groves",
+      "status": "complete",
+      "date": "2023-09-10T09:30:00.000+00:00",
+      "type": "Routine Check-up",
+      "reason": "Yearly physical exam",
+      "synopsis": "Patient is in good health, advised to continue balanced diet and regular exercise.",
+      "measurements": [
+        { "value": 71, "type": "Height" },
+        { "value": 195, "type": "Weight" },
+        { "value": 125, "type": "Blood Pressure (systolic)" },
+        { "value": 85, "type": "Blood Pressure (diastolic)" },
+        { "value": 64, "type": "Heart Rate" },
+        { "value": 99.1, "type": "Temperature" },
+        { "value": 97, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Engineer" },
+        { "type": "Lifestyle", "value": "Moderately active" },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Never" },
+        { "type": "Alcohol Use", "value": "Occasionally" }
+      ]
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "complete",
+      "date": "2023-10-15T10:15:00.000+00:00",
+      "type": "Cholesterol Follow-up",
+      "reason": "Monitoring cholesterol levels after diet change",
+      "synopsis": "Cholesterol levels improved. Encouraged to maintain diet and exercise regimen.",
+      "measurements": [
+        { "value": 71, "type": "Height" },
+        { "value": 190, "type": "Weight" },
+        { "value": 122, "type": "Blood Pressure (systolic)" },
+        { "value": 80, "type": "Blood Pressure (diastolic)" },
+        { "value": 60, "type": "Heart Rate" },
+        { "value": 98.9, "type": "Temperature" },
+        { "value": 96, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Engineer" },
+        { "type": "Lifestyle", "value": "Active, exercises 4 times a week" },
+        { "type": "Tobacco Use", "value": "Never" },
+        { "type": "Marijuana Use", "value": "Never" },
+        { "type": "Alcohol Use", "value": "Rarely" }
+      ]
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-05T09:00:00.000+00:00",
+      "type": "Cardiology Screening",
+      "reason": "Routine heart function and risk assessment"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-06T10:00:00.000+00:00",
+      "type": "Dental Cleaning",
+      "reason": "Bi-annual teeth cleaning and check-up"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-07T11:00:00.000+00:00",
+      "type": "Eye Examination",
+      "reason": "Annual vision check and prescription update"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-08T09:30:00.000+00:00",
+      "type": "Nutrition Consultation",
+      "reason": "Dietary adjustments for weight management"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-09T10:30:00.000+00:00",
+      "type": "Fitness Assessment",
+      "reason": "Evaluation of current fitness level and exercise plan optimization"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-10T11:30:00.000+00:00",
+      "type": "Stress Management Workshop",
+      "reason": "Strategies for reducing and managing stress"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-11T10:45:00.000+00:00",
+      "type": "Sleep Hygiene Consultation",
+      "reason": "Improvement of sleep quality and habits"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-12T10:15:00.000+00:00",
+      "type": "Mental Health Screening",
+      "reason": "Routine depression and anxiety screening"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-13T11:15:00.000+00:00",
+      "type": "Allergy Review",
+      "reason": "Seasonal allergies assessment and medication review"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-14T09:00:00.000+00:00",
+      "type": "Dermatology Consultation",
+      "reason": "Review of skin health and any dermatological concerns"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-15T09:45:00.000+00:00",
+      "type": "Respiratory Function Test",
+      "reason": "Assessment of lung function and breathing"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-16T10:45:00.000+00:00",
+      "type": "Hepatic Health Evaluation",
+      "reason": "Liver function test and health check"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-17T09:00:00.000+00:00",
+      "type": "Gastrointestinal Consult",
+      "reason": "Check-up for GERD and dietary advice"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-18T10:00:00.000+00:00",
+      "type": "Neurology Follow-up",
+      "reason": "Evaluation of migraine management plan effectiveness"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-19T11:00:00.000+00:00",
+      "type": "Dermatology Check",
+      "reason": "Routine skin cancer screening and acne treatment review"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-20T09:30:00.000+00:00",
+      "type": "Endocrinology Assessment",
+      "reason": "Thyroid function test and diabetes management"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-21T10:30:00.000+00:00",
+      "type": "Psychiatry Consultation",
+      "reason": "Annual mental health evaluation"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-22T11:30:00.000+00:00",
+      "type": "Rheumatology Appointment",
+      "reason": "Assessment of joint pain and arthritis management"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-23T09:00:00.000+00:00",
+      "type": "Pulmonology Screening",
+      "reason": "Evaluation of breathing issues and chronic cough"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-24T10:00:00.000+00:00",
+      "type": "Orthopedic Evaluation",
+      "reason": "Follow-up on chronic knee pain and mobility issues"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-25T11:00:00.000+00:00",
+      "type": "Urology Check-up",
+      "reason": "Routine prostate exam and urinary health assessment"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-26T09:30:00.000+00:00",
+      "type": "Nephrology Consultation",
+      "reason": "Kidney function evaluation and hypertension management"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-27T10:30:00.000+00:00",
+      "type": "Hematology Check",
+      "reason": "Blood disorder evaluation and anemia check"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-28T11:30:00.000+00:00",
+      "type": "Infectious Disease Consult",
+      "reason": "Review of travel vaccines and infectious disease prevention"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-29T09:00:00.000+00:00",
+      "type": "General Surgery Consultation",
+      "reason": "Discussion regarding potential hernia repair surgery"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-30T10:00:00.000+00:00",
+      "type": "Vascular Health Screening",
+      "reason": "Check-up for circulatory system health and varicose veins"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-03-31T11:00:00.000+00:00",
+      "type": "Mental Wellness Session",
+      "reason": "Stress management and cognitive behavioral therapy session"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-04-01T09:30:00.000+00:00",
+      "type": "Physical Therapy",
+      "reason": "Ongoing physical therapy for back pain"
+    },
+    {
+      "patient": "Phillip S. Groves",
+      "status": "scheduled",
+      "date": "2024-04-02T10:30:00.000+00:00",
+      "type": "Annual Physical Examination",
+      "reason": "Comprehensive review of overall health"
+    }
+  ]
+}

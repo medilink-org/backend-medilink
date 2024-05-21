@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Zaphod Beeblebrox",
+    "initials": "ZB",
+    "age": 237,
+    "birthDate": "1787-05-12T00:00:00.000+00:00",
+    "gender": "male",
+    "notes": [
+      {
+        "author": "Dr. Galactic",
+        "date": "2024-01-20T10:30:00.000+00:00",
+        "content": "Patient exhibits signs of having two heads. Advised to avoid Pan Galactic Gargle Blasters."
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Extragalactic Antihistamine",
+        "dosage": "5mg",
+        "frequency": "Once every century",
+        "reason": "Allergic to Vogon poetry",
+        "start": "2024-01-22T00:00:00.000+00:00",
+        "end": "2924-01-22T00:00:00.000+00:00"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Vogon Poetry",
+        "severity": "Severe",
+        "reaction": "Existential dread"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Pan-Dimensional Detox",
+        "reason": "Overconsumption of Pan Galactic Gargle Blasters",
+        "start": "2024-02-01T00:00:00.000+00:00",
+        "end": "2024-03-01T00:00:00.000+00:00"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Head Duplication",
+        "reason": "Personal preference",
+        "date": "1807-06-15T00:00:00.000+00:00"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Schrödinger's Cat Syndrome",
+        "relative": "Cousin"
+      }
+    ]
+  },
+  {
+    "name": "Albus Percival Wulfric Brian Dumbledore",
+    "initials": "APWBD",
+    "age": 115,
+    "birthDate": "1881-07-30T00:00:00.000+00:00",
+    "gender": "male",
+    "notes": [
+      {
+        "author": "Dr. Muggle",
+        "date": "2024-02-15T16:20:00.000+00:00",
+        "content": "Patient showed up floating on a broom. Keeps talking to snakes. Possibly hallucinating."
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Reality Anchors",
+        "dosage": "1mg",
+        "frequency": "Daily",
+        "reason": "To prevent patient from accidentally translocating",
+        "start": "2024-02-17T00:00:00.000+00:00",
+        "end": "2025-02-17T00:00:00.000+00:00"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Dark Magic",
+        "severity": "Moderate",
+        "reaction": "Skin rashes"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Potion of Clarity",
+        "reason": "Prevent confusion spells",
+        "start": "2024-02-18T00:00:00.000+00:00",
+        "end": "2024-08-18T00:00:00.000+00:00"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Phoenix Feather Transplant",
+        "reason": "Strengthening bond with magical creatures",
+        "date": "1924-09-11T00:00:00.000+00:00"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Invisibility",
+        "relative": "Great Uncle"
+      }
+    ]
+  },
+  {
+    "name": "Ford Prefect",
+    "initials": "FP",
+    "age": 200,
+    "birthDate": "1824-03-03T00:00:00.000+00:00",
+    "gender": "male",
+    "notes": [
+      {
+        "author": "Dr. Vogon",
+        "date": "2024-03-05T08:15:00.000+00:00",
+        "content": "Patient believes to be from a small planet somewhere in the vicinity of Betelgeuse. Reality testing needed."
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Galactic Tranquilizer",
+        "dosage": "10ml",
+        "frequency": "As needed",
+        "reason": "Anxiety over Earth's destruction",
+        "start": "2024-03-07T00:00:00.000+00:00",
+        "end": "2024-09-07T00:00:00.000+00:00"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Peanuts",
+        "severity": "Low",
+        "reaction": "Mild itchiness"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Sub-Etha Sens-O-Matic Therapy",
+        "reason": "To adjust back to Earth's frequencies",
+        "start": "2024-03-10T00:00:00.000+00:00",
+        "end": "2024-06-10T00:00:00.000+00:00"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Appendix Removal",
+        "reason": "Routine check-up revealed unnecessary organ. Patient requested removal for efficiency.",
+        "date": "1900-04-20T00:00:00.000+00:00"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Telepathy",
+        "relative": "Sister"
+      }
+    ]
+  },
+  {
+    "name": "Marvin the Paranoid Android",
+    "initials": "MPA",
+    "age": 579,
+    "birthDate": "1445-11-02T00:00:00.000+00:00",
+    "gender": "robot",
+    "notes": [
+      {
+        "author": "Dr. Sirius Cybernetics Corporation",
+        "date": "2024-04-01T14:30:00.000+00:00",
+        "content": "Patient continually expresses severe depression about being a robot. Has been advised to avoid diodes."
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Oil of Optimism",
+        "dosage": "50ml",
+        "frequency": "Weekly",
+        "reason": "Lubrication and mood enhancement",
+        "start": "2024-04-03T00:00:00.000+00:00",
+        "end": "2025-04-03T00:00:00.000+00:00"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Human Stupidity",
+        "severity": "High",
+        "reaction": "Increased depression"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Circuitry Yoga",
+        "reason": "Flexibility and relaxation",
+        "start": "2024-04-05T00:00:00.000+00:00",
+        "end": "2024-10-05T00:00:00.000+00:00"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Genuine People Personality Installation",
+        "reason": "Manufacturer's experiment",
+        "date": "1475-12-25T00:00:00.000+00:00"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Oversensitivity to Emotions",
+        "relative": "Creator"
+      }
+    ]
+  }
+]
