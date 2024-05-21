@@ -1,0 +1,248 @@
+{
+  "appointments": [
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "complete",
+      "date": "2023-09-15T09:45:00.000+00:00",
+      "type": "Diabetes Management",
+      "reason": "Quarterly diabetes review and management",
+      "synopsis": "Type 2 Diabetes Mellitus under control with current medication regimen. No changes necessary.",
+      "measurements": [
+        { "value": 64, "type": "Height" },
+        { "value": 160, "type": "Weight" },
+        { "value": 130, "type": "Blood Pressure (systolic)" },
+        { "value": 85, "type": "Blood Pressure (diastolic)" },
+        { "value": 68, "type": "Heart Rate" },
+        { "value": 98.7, "type": "Temperature" },
+        { "value": 96, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Retired" },
+        { "type": "Lifestyle", "value": "Lightly active" },
+        { "type": "Tobacco Use", "value": "Former smoker" },
+        { "type": "Marijuana Use", "value": "Never" },
+        { "type": "Alcohol Use", "value": "Rarely" }
+      ]
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "complete",
+      "date": "2023-10-20T10:30:00.000+00:00",
+      "type": "Knee Pain Management",
+      "reason": "Follow-up on knee replacement rehabilitation",
+      "synopsis": "Good recovery progress post knee replacement. Continue with physical therapy.",
+      "measurements": [
+        { "value": 64, "type": "Height" },
+        { "value": 158, "type": "Weight" },
+        { "value": 126, "type": "Blood Pressure (systolic)" },
+        { "value": 82, "type": "Blood Pressure (diastolic)" },
+        { "value": 70, "type": "Heart Rate" },
+        { "value": 98.4, "type": "Temperature" },
+        { "value": 97, "type": "Blood O2" }
+      ],
+      "socialHistory": [
+        { "type": "Occupation", "value": "Retired" },
+        { "type": "Lifestyle", "value": "Maintaining light activities" },
+        { "type": "Tobacco Use", "value": "Former smoker" },
+        { "type": "Marijuana Use", "value": "Never" },
+        { "type": "Alcohol Use", "value": "Occasionally" }
+      ]
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-06T09:30:00.000+00:00",
+      "type": "Osteoporosis Screening",
+      "reason": "Routine screening for bone density and osteoporosis risk"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-07T10:00:00.000+00:00",
+      "type": "Cardiovascular Check-up",
+      "reason": "Annual heart and vascular system examination"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-08T11:00:00.000+00:00",
+      "type": "Nutrition Counseling",
+      "reason": "Diet review and optimization for diabetes management"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-09T09:45:00.000+00:00",
+      "type": "Vision and Eye Health",
+      "reason": "Regular eye check-up and vision test"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-10T10:15:00.000+00:00",
+      "type": "Dental Examination",
+      "reason": "Six-month dental clean-up and oral health review"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-11T11:30:00.000+00:00",
+      "type": "Mental Health Review",
+      "reason": "Regular check-up on mental well-being and depression screening"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-12T10:00:00.000+00:00",
+      "type": "Skin Health Assessment",
+      "reason": "Examination of skin for new or changing moles and overall skin health"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-13T11:15:00.000+00:00",
+      "type": "Hearing Check",
+      "reason": "Routine auditory function and hearing capability test"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-14T09:00:00.000+00:00",
+      "type": "Lung Function Test",
+      "reason": "Assessment of lung capacity and respiratory health"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-15T10:45:00.000+00:00",
+      "type": "Peripheral Vascular Disease Screening",
+      "reason": "Examination for any signs of peripheral artery disease"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-16T09:30:00.000+00:00",
+      "type": "General Fitness Assessment",
+      "reason": "Evaluation of physical fitness and exercise recommendations"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-17T10:30:00.000+00:00",
+      "type": "Sleep Quality and Insomnia Management",
+      "reason": "Review of sleep patterns and treatment of any sleep disorders"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-18T11:45:00.000+00:00",
+      "type": "Medication Review",
+      "reason": "Comprehensive evaluation of all current medications"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-19T09:15:00.000+00:00",
+      "type": "Podiatry Consultation",
+      "reason": "Annual foot health examination for diabetic patients"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-20T10:45:00.000+00:00",
+      "type": "Pain Management Session",
+      "reason": "Management of chronic pain and arthritis"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-21T11:30:00.000+00:00",
+      "type": "Allergist Appointment",
+      "reason": "Routine allergy check and immunotherapy review"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-22T09:00:00.000+00:00",
+      "type": "Women's Health Consult",
+      "reason": "Routine gynecological exam and breast health screening"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-23T10:15:00.000+00:00",
+      "type": "Cognitive Function Test",
+      "reason": "Assessment of memory and cognitive abilities"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-24T11:45:00.000+00:00",
+      "type": "Liver Function Test",
+      "reason": "Routine liver health assessment for patients on long-term medication"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-25T09:30:00.000+00:00",
+      "type": "Respiratory Assessment",
+      "reason": "Evaluation of lung function and management of COPD"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-26T10:00:00.000+00:00",
+      "type": "Psychological Support Session",
+      "reason": "Ongoing support for mental health including depression and anxiety"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-27T11:00:00.000+00:00",
+      "type": "Renal Health Check-up",
+      "reason": "Monitoring kidney function and effects of diabetes medication"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-28T09:45:00.000+00:00",
+      "type": "Skin Health Surveillance",
+      "reason": "Examination for skin conditions or changes related to diabetes"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-29T10:30:00.000+00:00",
+      "type": "Infectious Diseases Consultation",
+      "reason": "Preventative care and vaccinations for immune-compromised individuals"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-30T11:15:00.000+00:00",
+      "type": "Gastroenterology Check",
+      "reason": "Management of gastrointestinal symptoms related to medication side effects"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-03-31T09:00:00.000+00:00",
+      "type": "Occupational Therapy",
+      "reason": "Assessment and improvement of daily living activities and mobility"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-04-01T10:15:00.000+00:00",
+      "type": "Audiology Examination",
+      "reason": "Routine hearing check and assessment for hearing aids"
+    },
+    {
+      "patient": "Beatrice L. Kindle",
+      "status": "scheduled",
+      "date": "2024-04-02T11:30:00.000+00:00",
+      "type": "Comprehensive Geriatric Assessment",
+      "reason": "Multidimensional assessment to optimize elderly care"
+    }
+  ]
+}

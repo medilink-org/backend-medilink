@@ -1,0 +1,250 @@
+[
+  {
+    "name": "Terry J. Hapkins",
+    "initials": "TJH",
+    "age": 34,
+    "birthDate": "1989-04-12T00:00:00.000+00:00",
+    "gender": "male",
+    "notes": [
+      {
+        "author": "Dr. Samantha Reed",
+        "date": "2024-01-20T10:30:00.000+00:00",
+        "content": "Patient complains of recurrent abdominal pain. Recommended diet modification and follow-up in 2 weeks.",
+        "summary": "Abdominal pain treatment"
+      },
+      {
+        "author": "Dr. Samantha Reed",
+        "date": "2024-02-03T10:30:00.000+00:00",
+        "content": "Patient reports improvement in symptoms. Advised to continue dietary changes and follow-up in 1 month.",
+        "summary": "Dietary change helping"
+      },
+      {
+        "author": "Dr. Leonard Krane",
+        "date": "2024-03-05T08:15:00.000+00:00",
+        "content": "High cholesterol levels detected. Recommended starting statin therapy and nutritional consulting.",
+        "summary": "Worrying cholesterol"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Pantoprazole",
+        "dosage": "40mg",
+        "frequency": "Once daily",
+        "reason": "GERD",
+        "start": "2024-01-22T00:00:00.000+00:00",
+        "end": "2024-07-22T00:00:00.000+00:00"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Penicillin",
+        "severity": "Severe",
+        "reaction": "Anaphylaxis"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Dietary Counseling",
+        "reason": "Chronic GERD",
+        "start": "2024-02-01T00:00:00.000+00:00",
+        "end": "2024-08-01T00:00:00.000+00:00"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Appendectomy",
+        "reason": "Appendicitis",
+        "date": "2015-06-15T00:00:00.000+00:00"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Hypertension",
+        "relative": "Father"
+      }
+    ]
+  },
+  {
+    "name": "Cassandra E. Willows",
+    "initials": "CEW",
+    "age": 28,
+    "birthDate": "1995-03-22T00:00:00.000+00:00",
+    "gender": "female",
+    "notes": [
+      {
+        "author": "Dr. Clara Hughes",
+        "date": "2024-02-15T16:20:00.000+00:00",
+        "content": "Patient presented with migraine. Prescribed medication and lifestyle changes for stress management.",
+        "summary": "Migraine symptoms"
+      },
+      {
+        "author": "Dr. Clara Hughes",
+        "date": "2024-03-01T16:20:00.000+00:00",
+        "content": "Patient reports improvement in symptoms. Advised to continue stress management program and follow-up in 3 months.",
+        "summary": "Migraine symptoms improving"
+      },
+      {
+        "author": "Dr. Leonard Krane",
+        "date": "2024-03-05T08:15:00.000+00:00",
+        "content": "Patient was oddly combative today. Recommended further evaluation for mood disorder.",
+        "summary": "Patient combative"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Sumatriptan",
+        "dosage": "50mg",
+        "frequency": "As needed",
+        "reason": "Migraine",
+        "start": "2024-02-17T00:00:00.000+00:00",
+        "end": "2024-08-17T00:00:00.000+00:00"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Nuts",
+        "severity": "Moderate",
+        "reaction": "Rash"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Stress Management Program",
+        "reason": "Migraine Prevention",
+        "start": "2024-03-01T00:00:00.000+00:00",
+        "end": "2024-09-01T00:00:00.000+00:00"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Laser Eye Surgery",
+        "reason": "Myopia Correction",
+        "date": "2022-04-20T00:00:00.000+00:00"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Breast Cancer",
+        "relative": "Mother"
+      }
+    ]
+  },
+  {
+    "name": "Phillip S. Groves",
+    "initials": "PSG",
+    "age": 45,
+    "birthDate": "1978-07-11T00:00:00.000+00:00",
+    "gender": "male",
+    "notes": [
+      {
+        "author": "Dr. Leonard Krane",
+        "date": "2024-03-05T08:15:00.000+00:00",
+        "content": "High cholesterol levels detected. Recommended starting statin therapy and nutritional consulting.",
+        "summary": "Worrying cholesterol"
+      },
+      {
+        "author": "Dr. Leonard Church",
+        "date": "2024-03-01T08:15:00.000+00:00",
+        "content": "Patient seems distressed. Visible signs of tears. Smiles occasionally when prompted.",
+        "summary": "Patient mentally unwell"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Atorvastatin",
+        "dosage": "20mg",
+        "frequency": "Once daily",
+        "reason": "High Cholesterol",
+        "start": "2024-03-07T00:00:00.000+00:00",
+        "end": "2024-09-07T00:00:00.000+00:00"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Iodine",
+        "severity": "Low",
+        "reaction": "Hives"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Nutritional Counseling",
+        "reason": "High Cholesterol Management",
+        "start": "2024-03-10T00:00:00.000+00:00",
+        "end": "2024-12-10T00:00:00.000+00:00"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Gallbladder Removal",
+        "reason": "Gallstones",
+        "date": "2020-05-25T00:00:00.000+00:00"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Diabetes",
+        "relative": "Brother"
+      }
+    ]
+  },
+  {
+    "name": "Beatrice L. Kindle",
+    "initials": "BLK",
+    "age": 52,
+    "birthDate": "1971-09-09T00:00:00.000+00:00",
+    "gender": "female",
+    "notes": [
+      {
+        "author": "Dr. Emily Stanton",
+        "date": "2024-03-01T14:30:00.000+00:00",
+        "content": "Diagnosis of Type 2 Diabetes Mellitus, initiating management plan including medication and lifestyle changes.",
+        "summary": "Diabetes Management"
+      },
+      {
+        "author": "Dr. Clara Hughes",
+        "date": "2022-08-12T16:20:00.000+00:00",
+        "content": "Patient presented with migraine. Prescribed medication and lifestyle changes for stress management.",
+        "summary": "Migraine symptoms"
+      }
+    ],
+    "prescriptions": [
+      {
+        "medication": "Metformin",
+        "dosage": "500mg",
+        "frequency": "Twice daily",
+        "reason": "Type 2 Diabetes",
+        "start": "2024-04-03T00:00:00.000+00:00",
+        "end": "2025-04-03T00:00:00.000+00:00"
+      }
+    ],
+    "allergies": [
+      {
+        "allergen": "Aspirin",
+        "severity": "Mild",
+        "reaction": "Gastrointestinal upset"
+      }
+    ],
+    "activeTreatments": [
+      {
+        "treatment": "Diabetes Education",
+        "reason": "Diabetes Management",
+        "start": "2024-04-10T00:00:00.000+00:00",
+        "end": "2024-10-10T00:00:00.000+00:00"
+      }
+    ],
+    "medicalHistory": [
+      {
+        "operation": "Total Knee Replacement",
+        "reason": "Osteoarthritis",
+        "date": "2023-08-16T00:00:00.000+00:00"
+      }
+    ],
+    "familyHistory": [
+      {
+        "condition": "Coronary Artery Disease",
+        "relative": "Father"
+      }
+    ]
+  }
+]
