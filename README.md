@@ -49,7 +49,9 @@ Remember to copy `.env.example` to `.env` and fill in the actual values.
 
 ## Deployment
 
-To deploy the the Project (Production Mode), begin by installing the dependencies using `npm install` and start the application using the compiled code in the build directory using `npm start`.
+To deploy the the Project (Production Mode), begin by installing the dependencies using `npm install`. As mentioned above, `postinstall` will take care of building the project. Thus, after running `npm install`, you should start the application using the compiled code in the build directory using `npm start`.
+
+A deployed version of the frontend lives at [medilink-backend](https://medi-link-api.onrender.com/)
 
 ## Authors
 
