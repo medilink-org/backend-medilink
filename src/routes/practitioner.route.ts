@@ -53,40 +53,6 @@ export default class PractitionerRouter {
       return res.status(200).json(practitioner);
     });
 
-    // //temp route to assign practitioner to appointments
-    // //commented out to avoid a deployed API fiasco, code remains because it's useful
-    // this.router.get("/assignAppointments/:id", async (req, res) => {
-    //   const practitioner = await Practitioner.model.findById(req.params.id)
-    //   if (!practitioner) {
-    //     return res.status(404).json({ message: "Practitioner not found" })
-    //   }
-
-    //   const appointments = await Appointment.model.find({}) // all
-    //   const patients = await Patient.model.find({}) // all
-
-    //   if (!patients) {
-    //     return res.status(404).json({ message: "Patients not found" })
-    //   }
-    //   if (!appointments) {
-    //     return res.status(404).json({ message: "Appointments not found" })
-    //   }
-    //   // patients.forEach(async (patient) => {
-    //   //   practitioner.patients.push(patient._id)
-    //   // })
-
-    //   appointments.forEach(async (appointment, index) => {
-    //     if (index % 2 !== 0) {
-    //       // every other appointment, change to === 0 for other half
-    //       appointment.practitioner = practitioner._id
-    //       practitioner.appointments.push(appointment._id)
-    //       await appointment.save()
-    //     }
-    //   })
-    //   await practitioner.save()
-
-    //   return res.status(200).json(practitioner)
-    // })
-
     // login route for demo docs
     // obviously not secure, but this is a demo
     this.router.get('/login/:username/:password', async (req, res) => {
@@ -185,6 +151,31 @@ export default class PractitionerRouter {
       practitioner.deleteOne();
 
       return res.status(200).send('Practitioner deleted');
+    });
+
+    // get practitioner availability
+    this.router.get('/availability/:id', async (req, res) => {
+      const practitioner = await Practitioner.model.findById(req.params.id);
+      if (!practitioner) {
+        return res.status(404).json({ message: 'Practitioner not found' });
+      }
+      return res.status(200).json(practitioner.availability);
+    });
+
+    // update practitioner availability
+    this.router.put('/availability/:id', async (req, res) => {
+      const { availability } = req.body;
+      const practitioner = await Practitioner.model.findByIdAndUpdate(
+        req.params.id,
+        { availability },
+        { new: true }
+      );
+      if (!practitioner) {
+        return res
+          .status(500)
+          .json({ message: 'Failed to update availability' });
+      }
+      return res.status(200).json(practitioner.availability);
     });
   }
 }

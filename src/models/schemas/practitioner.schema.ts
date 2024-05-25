@@ -1,4 +1,4 @@
-import { Schema } from "mongoose"
+import { Schema } from 'mongoose';
 
 export default new Schema<Practitioner>(
   {
@@ -6,8 +6,9 @@ export default new Schema<Practitioner>(
     initials: { type: String, required: true },
     username: { type: String, required: true, unique: true },
     password: { type: String, required: true },
-    patients: [{ type: Schema.Types.ObjectId, ref: "patient" }],
-    appointments: [{ type: Schema.Types.ObjectId, ref: "appointment" }],
+    patients: [{ type: Schema.Types.ObjectId, ref: 'patient' }],
+    appointments: [{ type: Schema.Types.ObjectId, ref: 'appointment' }],
+    availability: [{ day: String, times: [String] }]
   },
-  { timestamps: true, collection: "practitioner" }
-)
+  { timestamps: true, collection: 'practitioner' }
+);
