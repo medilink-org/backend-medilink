@@ -177,5 +177,23 @@ export default class PractitionerRouter {
       }
       return res.status(200).json(practitioner.availability);
     });
+
+    this.router.delete('/availability/:id', async (req, res) => {
+      try {
+        const { id } = req.params;
+        const practitioner = await Practitioner.model.findById(id);
+
+        if (!practitioner) {
+          return res.status(404).json({ message: 'Practitioner not found' });
+        }
+
+        practitioner.availability = [];
+        await practitioner.save();
+
+        res.status(200).json({ message: 'Availability deleted' });
+      } catch (error) {
+        res.status(500).json({ message: 'Server error', error });
+      }
+    });
   }
 }
