@@ -15,6 +15,14 @@ declare interface Patient {
   familyHistory: Condition[];
 }
 
+declare interface User {
+  _id?: string;
+  username: string;
+  password: string;
+  role: 'practitioner' | 'receptionist' | 'admin';
+}
+
+declare interface Receptionist extends User {}
 declare interface Practitioner {
   _id?: string;
   name: string;
