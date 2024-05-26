@@ -4,6 +4,7 @@ import cors from 'cors';
 import PractitionerRouter from './routes/practitioner.route';
 import AppointmentRouter from './routes/appointment.route';
 import PatientRouter from './routes/patient.route';
+import ReceptionistRouter from './routes/receptionist.route'; // Import the Receptionist router
 
 // Basic API server setup
 class Server {
@@ -40,6 +41,7 @@ class Server {
 
     // Routes
     this.routes.forEach((route) => this.server.use(route.path, route.router));
+    this.server.use('/receptionist', ReceptionistRouter);
 
     // Catch-all route
     this.server.use('*', (req, res) =>
