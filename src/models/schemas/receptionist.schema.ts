@@ -1,10 +1,9 @@
 import { Schema } from 'mongoose';
 import UserSchema from './user.schema';
 
-const ReceptionistSchema = new Schema(
+const ReceptionistSchema = new Schema<Receptionist>(
   {
-    ...UserSchema.obj,
-    role: { type: String, default: 'receptionist', required: true }
+    ...UserSchema.obj
   },
   { timestamps: true }
 );

@@ -19,16 +19,13 @@ declare interface User {
   _id?: string;
   username: string;
   password: string;
+  name: string;
   role: 'practitioner' | 'receptionist' | 'admin';
 }
 
 declare interface Receptionist extends User {}
-declare interface Practitioner {
-  _id?: string;
-  name: string;
+declare interface Practitioner extends User {
   initials: string;
-  username: string;
-  password: string;
   patients: Patient[] | Mongoose.Schema.Types.ObjectId[] | string[];
   appointments: Appointment[] | Mongoose.Schema.Types.ObjectId[] | string[];
   availability: { day: string; times: string[] }[];

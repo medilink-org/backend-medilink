@@ -5,6 +5,7 @@ import PractitionerRouter from './routes/practitioner.route';
 import AppointmentRouter from './routes/appointment.route';
 import PatientRouter from './routes/patient.route';
 import ReceptionistRouter from './routes/receptionist.route'; // Import the Receptionist router
+import UserRouter from './routes/user.route'; // Import the Account router
 
 // Basic API server setup
 class Server {
@@ -40,6 +41,7 @@ class Server {
     this.server.use(express.urlencoded({ extended: false }));
 
     // Routes
+    this.server.use('/account', UserRouter);
     this.routes.forEach((route) => this.server.use(route.path, route.router));
     this.server.use('/receptionist', ReceptionistRouter);
 
