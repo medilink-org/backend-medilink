@@ -53,33 +53,6 @@ export default class PractitionerRouter {
       return res.status(200).json(practitioner);
     });
 
-    // login route for demo docs
-    // obviously not secure, but this is a demo
-    this.router.get('/login/:username/:password', async (req, res) => {
-      console.log('login attempt: ', req.params.username, req.params.password);
-      const practitioner = await Practitioner.model.findOne({
-        username: req.params.username
-      });
-      if (!practitioner) {
-        return res.status(404).send('Practitioner not found');
-      }
-
-      if (practitioner.password !== req.params.password) {
-        return res.status(401).send('Incorrect password');
-      }
-
-      return res.status(200).json(practitioner);
-    });
-
-    // create new practitioner
-    this.router.post('/', async (req, res) => {
-      const practitioner = await new Practitioner.model(req.body).save();
-      if (!practitioner) {
-        return res.status(500).send('Failed to create practitioner');
-      }
-      return res.status(201).json(practitioner);
-    });
-
     // update practitioner
     this.router.put('/id/:_id', async (req, res) => {
       const practitioner = await Practitioner.model.findByIdAndUpdate(
