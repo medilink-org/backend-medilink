@@ -1,6 +1,5 @@
 import express from 'express';
 import Practitioner from '../models/practitioner.model';
-import Appointment from '../models/appointment.model';
 import Patient from '../models/patient.model';
 
 export default class PractitionerRouter {
