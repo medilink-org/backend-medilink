@@ -105,27 +105,6 @@ export default class PractitionerRouter {
       }
     );
 
-    // delete practitioner
-    this.router.delete('/id/:_id', async (req, res) => {
-      const practitioner = await Practitioner.model.findById(req.params._id);
-      if (!practitioner) {
-        return res.status(404).send('Practitioner not found');
-      }
-      // remove from appointments
-      const appointments = await Appointment.model.find({
-        _id: practitioner._id
-      });
-      appointments.forEach((appointment) => {
-        appointment.practitioner = null;
-        appointment.save();
-      });
-
-      // delete practitioner
-      practitioner.deleteOne();
-
-      return res.status(200).send('Practitioner deleted');
-    });
-
     // get practitioner availability
     this.router.get('/availability/:id', async (req, res) => {
       const practitioner = await Practitioner.model.findById(req.params.id);
