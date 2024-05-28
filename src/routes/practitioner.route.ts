@@ -1,7 +1,6 @@
 import express from 'express';
 import Practitioner from '../models/practitioner.model';
-import Appointment from '../models/appointment.model';
-// import Patient from "../models/patient.model"
+import Patient from '../models/patient.model';
 
 export default class PractitionerRouter {
   public path = '/practitioner';
@@ -70,18 +69,26 @@ export default class PractitionerRouter {
 
     // add patient
     this.router.put('/id/:_id/addPatient/:patientId', async (req, res) => {
-      const practitioner = await Practitioner.model.findById(req.params._id);
-      const patient = await Practitioner.model.findById(req.params.patientId);
-      if (practitioner && patient) {
+      try {
+        const practitioner = await Practitioner.model.findById(req.params._id);
+        const patient = await Patient.model.findById(req.params.patientId);
+
+        if (!practitioner) {
+          return res.status(404).json({ message: 'Practitioner not found' });
+        }
+
+        if (!patient) {
+          return res.status(404).json({ message: 'Patient not found' });
+        }
+
         practitioner.patients.push(patient._id);
-        practitioner.save();
+        await practitioner.save();
+
+        return res.status(200).json(practitioner);
+      } catch (error) {
+        console.error('Error adding patient to practitioner:', error);
+        return res.status(500).json({ message: 'Server error' });
       }
-      if (!practitioner || !patient) {
-        return res
-          .status(500)
-          .json({ message: 'Failed to add patient to practitioner' });
-      }
-      return res.status(200).json(practitioner);
     });
 
     // add appointment
