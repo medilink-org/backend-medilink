@@ -9,7 +9,8 @@ const UserSchema = new Schema<User>(
       type: String,
       required: true,
       enum: ['practitioner', 'receptionist', 'admin']
-    }
+    },
+    initials: { type: String, required: true }
   },
   { timestamps: true }
 );
