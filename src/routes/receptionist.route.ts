@@ -30,15 +30,4 @@ router.put('/id/:_id', async (req: Request, res: Response) => {
   }
 });
 
-router.delete('/id/:_id', async (req: Request, res: Response) => {
-  const { _id } = req.params;
-
-  try {
-    await Receptionist.findByIdAndDelete(_id);
-    res.status(200).json({ message: 'Receptionist deleted' });
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to delete receptionist' });
-  }
-});
-
 export default router;
