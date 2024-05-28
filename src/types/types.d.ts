@@ -21,11 +21,11 @@ declare interface User {
   password: string;
   name: string;
   role: 'practitioner' | 'receptionist' | 'admin';
+  initials: string;
 }
 
 declare interface Receptionist extends User {}
 declare interface Practitioner extends User {
-  initials: string;
   patients: Patient[] | Mongoose.Schema.Types.ObjectId[] | string[];
   appointments: Appointment[] | Mongoose.Schema.Types.ObjectId[] | string[];
   availability: { day: string; times: string[] }[];
