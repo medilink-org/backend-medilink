@@ -106,6 +106,17 @@ export default class PractitionerRouter {
     );
 
     // get practitioner availability
+    this.router.get('/available', async (req, res) => {
+      try {
+        const practitioners = await Practitioner.model.find({
+          'availability.0': { $exists: true }
+        });
+        return res.status(200).json(practitioners);
+      } catch (error) {
+        return res.status(500).json({ error: error.message });
+      }
+    });
+
     this.router.get('/availability/:id', async (req, res) => {
       const practitioner = await Practitioner.model.findById(req.params.id);
       if (!practitioner) {
