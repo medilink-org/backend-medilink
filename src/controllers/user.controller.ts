@@ -90,3 +90,36 @@ export const authenticateUser = async (req: Request, res: Response) => {
     res.status(500).json({ error: 'Failed to login' });
   }
 };
+
+// Only admins should be able to get all users, but for now, we will allow all users to use this endpoint
+export const getAllUsers = async (req: Request, res: Response) => {
+  try {
+    const admins = await UserModel.find();
+    const receptionists = await ReceptionistModel.find();
+    const practitioners = await PractitionerModel.model.find();
+
+    const allUsers = admins.concat(receptionists, practitioners);
+
+    res.status(200).json(allUsers);
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to get all users' });
+  }
+};
+
+export const deleteUser = async (req: Request, res: Response) => {
+  try {
+    const userToDeleteId = req.body._id;
+    const user =
+      (await UserModel.findByIdAndDelete(userToDeleteId)) ||
+      (await ReceptionistModel.findByIdAndDelete(userToDeleteId)) ||
+      (await PractitionerModel.model.findByIdAndDelete(userToDeleteId));
+
+    if (!user) {
+      res.status(404).json({ message: 'User not found' });
+    } else {
+      res.status(200).json({ message: 'User deleted' });
+    }
+  } catch (error) {
+    res.status(500).json({ error: 'Failed to delete user' });
+  }
+};
