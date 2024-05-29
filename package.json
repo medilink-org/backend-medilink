@@ -4,6 +4,7 @@
   "description": "NoSQL database for our project",
   "main": "app.ts",
   "dependencies": {
+    "@sendgrid/mail": "^8.1.3",
     "@types/node": "^20.8.7",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
