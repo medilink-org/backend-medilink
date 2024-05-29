@@ -6,6 +6,7 @@ import AppointmentRouter from './routes/appointment.route';
 import PatientRouter from './routes/patient.route';
 import ReceptionistRouter from './routes/receptionist.route'; // Import the Receptionist router
 import UserRouter from './routes/user.route'; // Import the Account router
+import EmailRouter from './routes/email.route';
 
 // Basic API server setup
 class Server {
@@ -44,6 +45,7 @@ class Server {
     this.server.use('/account', UserRouter);
     this.routes.forEach((route) => this.server.use(route.path, route.router));
     this.server.use('/receptionist', ReceptionistRouter);
+    this.server.use('/email', EmailRouter);
 
     // Catch-all route
     this.server.use('*', (req, res) =>
