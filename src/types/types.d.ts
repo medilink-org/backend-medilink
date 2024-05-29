@@ -22,6 +22,7 @@ declare interface User {
   name: string;
   role: 'practitioner' | 'receptionist' | 'admin';
   initials: string;
+  email: string;
 }
 
 declare interface Receptionist extends User {}

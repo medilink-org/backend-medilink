@@ -5,6 +5,7 @@ const UserSchema = new Schema<User>(
     username: { type: String, required: true, unique: true },
     password: { type: String, required: true },
     name: { type: String, required: true },
+    email: { type: String },
     role: {
       type: String,
       required: true,
