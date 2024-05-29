@@ -12,7 +12,7 @@ export default class PatientRouter {
   }
 
   private initializeRoutes() {
-    // get all patienst
+    // get all patients
     this.router.get('/all', (req, res) => {
       Patient.model
         .find({})
