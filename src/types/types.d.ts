@@ -4,6 +4,7 @@ declare interface Patient {
   name: string;
   initials: string;
   age: number;
+  email: string;
   birthDate: Date;
   gender: string;
   appointments?: Appointment[] | Mongoose.Schema.Types.ObjectId[] | string[];

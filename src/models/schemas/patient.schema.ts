@@ -5,6 +5,7 @@ export default new Schema<Patient>(
     name: { type: String, required: true },
     initials: { type: String, required: true },
     age: { type: Number, required: true },
+    email: { type: String },
     birthDate: { type: Date, required: true },
     gender: { type: String, required: true },
     appointments: [{ type: Schema.Types.ObjectId, ref: 'appointment' }],
