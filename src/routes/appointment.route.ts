@@ -26,6 +26,23 @@ export default class AppointmentRouter {
         });
     });
 
+    // get appointment by date
+    this.router.get('/date/:date', (req, res) => {
+      const date = new Date(req.params.date);
+      const nextDay = new Date(date);
+      nextDay.setDate(date.getDate() + 1);
+
+      Appointment.model
+        .find({
+          date: {
+            $gte: date,
+            $lt: nextDay
+          }
+        })
+        .then((appointments) => res.json(appointments))
+        .catch((err) => res.status(500).json('Error: ' + err));
+    });
+
     this.router.get('/id/:_id', (req, res) => {
       Appointment.model
         .findById(req.params._id)
