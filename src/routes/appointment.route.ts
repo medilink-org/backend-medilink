@@ -117,6 +117,19 @@ export default class AppointmentRouter {
       }
     );
 
+    // update existing appointment by id
+    this.router.put('/:_id', async (req, res) => {
+      const appointment = await Appointment.model.findByIdAndUpdate(
+        req.params._id,
+        req.body,
+        { upsert: true }
+      );
+      if (!appointment) {
+        return res.status(404).send('Error: could not find appointment');
+      }
+      return res.status(200).json(req.body);
+    });
+
     // Other routes...
 
     this.router.delete('/:_id', async (req, res) => {
