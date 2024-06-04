@@ -1,13 +1,14 @@
-# Project Name
+# MediLink
 
-![Team Photo](Insert a Team Photo URL here)
-[_how?_](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
-
-TODO: short project description, some sample screenshots or mockups
+Backend for [MediLink](https://github.com/dartmouth-cs52-24s/project-client-medilink).
 
 ## Architecture
 
-TODO: descriptions of code organization and tools and libraries used
+This repo is near-totally written in Typescript and run through NodeJS. Thus, to run a local copy, you will need a current version of [Node](https://nodejs.org/en) and [NPM](https://www.npmjs.com/).
+
+Our backend is built using MongoDB as a database, as we found that its ease of nesting JSON fields and its flexibility in schema design made it a good fit for our project. We are using the [mongoose](https://mongoosejs.com/) library to interact with the database.
+
+We then use ExpressJS to create a RESTful API to interact with the database from the application. Instructions on how to connect to our deployed API and database are below, as well as instructions on how to run a local version of the database and/or API.
 
 ## Setup
 
@@ -85,8 +86,44 @@ To deploy the the Project (Production Mode), begin by installing the dependencie
 
 A deployed version of the frontend lives at [medilink-backend](https://medi-link-api.onrender.com/)
 
+## Routes
+
+Our API exposes the following routes to all users. If we were going to production these would be authenticated and have various permissions tied to them, especially powerful routes such as `DELETE`, but for this demo we have skipped them.
+
+Be sure to set the `Content-Type` header to `application/json` for all requests.
+
+- **Patient**
+
+  - GET `/patient/id/:_id` - returns patient with given id
+  - GET `/patient/name/:name` - returns patient with a given name. Currently not enforcing unique names in the database so returns the first, but for testing purposes we are using unique names.
+  - GET `/patient/all` - returns all patients in the database.
+  - POST `/patient` - creates a new patient. Expects a patient in request body
+  - PUT `/patient/:_id` - updates patient with given id. Expects an update object in request body
+  - DELETE `/patient/:_id` - deletes patient with given id
+
+- **Practitioner**
+
+  - GET `/practitioner/id/:_id` - returns practitioner with given id
+  - GET `/practitioner/user/:username` - returns practitioner with a given username (must be unique)
+  - POST `/practitioner` - creates a new practitioner. Expects a practitioner in request body.
+  - PUT `/practitioner/:_id` - updates practitioner with given id. Expects an update object in request body.
+  - PUT `/practitioner/id/:_id/addPatient/:patientId` - validates existence of both the given patient and practitioner, then adds the given patient to the practitioner's list of patients
+  - PUT `/practitioner/id/:_id/addAppointment/:appointmentId` - validates the existence of both the given pracitioner and appointment. If they both exist, updates the practitioner with the appointment info and adds the practitioner to the appointment.
+  - DELETE `/practitioner/:id` - deletes practitioner with given id. Also removed them from all appointments they are attached to.
+
+- **Appointment**
+  - GET `/appointment/id/:_id` - returns appointment with given id
+  - POST `/appointment` - creates a new appointment without tying it to any practitioner or patient. Expects an appointment in request body.
+  - POST `/appointment/toPatient/:_id/toPractitioner/:pracId` - creates a new appointment and ties it to the given patient and practitioner (referenced by their mongoose objectID). Expects an appointment in request body
+  - POST `/appointment/toPatient/:_id/toPractitioner/:pracId/multiple` - similar to the above route but in this cases expects an array of appointments in request body
+  - POST `/appointment/toPatient/:_id/multiple` - similar to the above route but does nothing to assign a practitioner. In this cases expects an array of appointments in request body
+  - PUT `/appointment/:_id` - updates appointment with given id. Expects an update object in request body.
+  - DELETE `/appointment/:id` - deletes appointment with given id and removes from its respective patient and practitioner
+
 ## Authors
 
-Aimen Abdulaziz, Caleb Ash, Sajjad Kareem, Tayeb Mohammedi
+Aimen Abdulaziz, Sajjad Kareem, Caleb Ash, Tayeb Mohammedi
 
 ## Acknowledgments
+
+EasyEMR project
