@@ -120,6 +120,11 @@ Be sure to set the `Content-Type` header to `application/json` for all requests.
   - PUT `/appointment/:_id` - updates appointment with given id. Expects an update object in request body.
   - DELETE `/appointment/:id` - deletes appointment with given id and removes from its respective patient and practitioner
 
+
+## Contributing
+
+We welcome contributions! Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to contribute to this project.
+
 ## Authors
 
 Aimen Abdulaziz, Sajjad Kareem, Caleb Ash, Tayeb Mohammedi
